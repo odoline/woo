@@ -1,0 +1,5953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uap\n"
+"POT-Creation-Date: 2016-09-20 13:27+0300\n"
+"PO-Revision-Date: 2017-05-31 15:48+0000\n"
+"Last-Translator: Thái Dương <thaiduong.knkd@gmail.com>\n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: vi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: ../admin/Uap_Main_Admin.class.php:391 ../indeed-affiliate-pro.php:121
+msgid "Showcases"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:401 ../indeed-affiliate-pro.php:125
+msgid "Shortcodes"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1626
+msgid "Admin Workflow"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1627
+msgid "Public Workflow"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1632
+msgid "Captcha"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1775
+msgid "Checkbox"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1776
+msgid "Radio"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1845
+#: ../admin/Uap_Main_Admin.class.php:1850
+msgid "Theme 1"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1846
+#: ../admin/Uap_Main_Admin.class.php:1851
+msgid "Theme 2"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1847
+#: ../admin/Uap_Main_Admin.class.php:1852
+msgid "Theme 3"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2821 ../classes/Uap_Db.class.php:4981
+#: ../indeed-affiliate-pro.php:140
+msgid "TOS"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2910 ../admin/views/affiliates-list.php:95
+#: ../admin/views/affiliates-list.php:114 ../admin/views/payment-form.php:73
+#: ../admin/views/payment-form.php:84 ../admin/views/payment-form.php:153
+#: ../admin/views/payment-form.php:164
+#: ../public/Affiliate_Account_Page.class.php:920
+#: ../public/views/account_page-referral_notifications.php:17
+msgid "E-mail"
+msgstr ""
+
+#: ../admin/utilities.php:75
+msgid "CVC: "
+msgstr ""
+
+#: ../admin/views/account-page.php:84 ../admin/views/account-page.php:210
+#: ../admin/views/account-page.php:250
+msgid "Regular constants"
+msgstr ""
+
+#: ../admin/views/account-page.php:110 ../admin/views/account-page.php:220
+#: ../admin/views/account-page.php:275
+#: ../admin/views/notifications-add_edit.php:98
+#: ../admin/views/periodically_reports.php:58
+#: ../admin/views/referral_notifications.php:58
+msgid "Custom Fields constants"
+msgstr ""
+
+#: ../admin/views/account-page.php:168
+msgid "Menu Tabs:"
+msgstr ""
+
+#: ../admin/views/achievements.php:17 ../admin/views/achievements.php:18
+#: ../admin/views/ranks-list.php:62 ../admin/views/register-settings.php:51
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:337
+#: ../classes/Uap_Db.class.php:2060 ../classes/Uap_Db.class.php:2067
+#: ../classes/Uap_Db.class.php:2095 ../classes/Uap_Db.class.php:2100
+#: ../public/views/account_page-reports.php:78
+#: ../public/views/account_page-reports.php:79
+msgid "None"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:14
+msgid "CVC:"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:46
+msgid "Email"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:47 ../admin/views/referrals-list.php:61
+#: ../admin/views/referrals-list.php:74
+msgid "ID"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:143 ../admin/views/payment-form.php:33
+#: ../admin/views/payments_list_all_unpaid.php:54
+#: ../classes/Uap_Db.class.php:5195 ../classes/Uap_Db.class.php:6355
+msgid "PayPal"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:159 ../admin/views/payment-form.php:41
+#: ../admin/views/payments_list_all_unpaid.php:66
+#: ../classes/Uap_Db.class.php:5196 ../classes/Uap_Db.class.php:6364
+msgid "Stripe"
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:31
+msgid "URL:"
+msgstr ""
+
+#: ../admin/views/banners-list.php:16 ../admin/views/banners-list.php:25
+#: ../admin/views/visits.php:46 ../admin/views/visits.php:59
+msgid "URL"
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:3
+msgid "BuddyPress Account Page"
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:8 ../admin/views/woo_account_page.php:8
+msgid "Activate/Hold Affiliate Section"
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:9
+msgid ""
+"Fully integrate user Affiliate Account with their BuddyPress Profile. Once "
+"is activated a new Tab into BuddyPress menu will show up."
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:3
+#: ../classes/Uap_Db.class.php:6445
+msgid "Fair Checkout Reward"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:7
+msgid "Activate/Hold  Checkout Reward"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:22
+msgid "Form Label field"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:10
+msgid "Activate/Hold Custom Affiliate Slug"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:11
+msgid ""
+"Provides Personal slugs besides the default username or ID so Affiliates can "
+"hide their identity or company name behind a Custom slug."
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:66
+#: ../admin/views/custom_affiliate_slug.php:84
+#: ../admin/views/custom_affiliate_slug.php:91
+#: ../admin/views/landing_commissions-add_edit.php:26
+#: ../admin/views/ranks-add_edit.php:28
+#: ../admin/views/register-custom_fields.php:17
+#: ../admin/views/register-custom_fields.php:31
+msgid "Slug"
+msgstr ""
+
+#: ../admin/views/friendly_links.php:18
+msgid ""
+"This feature is recommended only when the <strong>Referral</strong> Format "
+"is based on Username. Affiliates will not be able to built custom Links into "
+"a Friendly structure with variabiles inside. Ex: ?order=true "
+msgstr ""
+
+#: ../admin/views/global_errors.php:2
+msgid ""
+"<p>This is a Trial Version of <strong>Ultimate Affiliate Pro</strong> plugin."
+" Please add your purchase code into Licence section to enable the Full "
+"Ultimate Affiliate Pro Version. Check your "
+msgstr ""
+
+#: ../admin/views/help.php:11
+msgid "cURL is disabled. You need to enable if for further activation request."
+msgstr ""
+
+#: ../admin/views/help.php:14
+msgid "Purchase Code"
+msgstr ""
+
+#: ../admin/views/help.php:20
+msgid "Activate"
+msgstr ""
+
+#: ../admin/views/help.php:31
+msgid ""
+"You have entered an invalid purchase code or the Envato API could be down "
+"for a moment."
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid "A valid purchase code Activate the Full Version of"
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid ""
+"plugin and provides access on support system. A purchase code can only be "
+"used for "
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid "ONE"
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid "for WordPress installation on"
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid ""
+"WordPress site at a time. If you previosly activated your purchase code on "
+"another website, then you have to get a"
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid "new Licence"
+msgstr ""
+
+#: ../admin/views/help.php:38
+msgid "Where can I find my Purchase Code?"
+msgstr ""
+
+#: ../admin/views/help.php:50
+msgid "Contact Support"
+msgstr ""
+
+#: ../admin/views/help.php:58
+msgid "Submit Ticket"
+msgstr ""
+
+#: ../admin/views/help.php:67
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:5
+msgid "Landing Commission Shortcode"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:10
+msgid "Activate/Hold Shortcode"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:11
+msgid "You can activate or deactivate a Shortcode anytime without delete it."
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:27
+msgid "unique slug"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:29
+msgid ""
+"Be sure that you set a Unique Slug based only on lowercase characters and no "
+"additional symbols or spaces"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:38
+msgid "Commission Price"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:39
+msgid ""
+"Based on the Landing Commission Price, the Referral Amount will be calculate "
+"depending of each Affiliate Rank Amount."
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:49
+msgid "Referral Default Status"
+msgstr ""
+
+#: ../admin/views/landing_commissions-list.php:3
+msgid "Add New Landing Commission"
+msgstr ""
+
+#: ../admin/views/landing_commissions-list.php:4
+msgid "...create your Landing Commission Shortcode"
+msgstr ""
+
+#: ../admin/views/landing_commissions-list.php:11
+msgid ""
+"Just copy the Landing Commission shortcode into any Successful Page (ex: "
+"Thank You Register page) and the Affiliate will receive a certain commission "
+"for that based on generated Referral."
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:7
+msgid "Activate/Hold LifeTime Commissions"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:23
+msgid "LifeTime Amount For Each Rank"
+msgstr ""
+
+#: ../admin/views/mlm-view_affiliate_children.php:41 ../admin/views/mlm.php:82
+#: ../admin/views/mlm.php:112 ../admin/views/ranks-add_edit.php:322
+#: ../admin/views/ranks-add_edit.php:329
+#: ../public/views/account_page-mlm.php:49
+#: ../public/views/account_page-mlm.php:56
+msgid "Level"
+msgstr ""
+
+#: ../admin/views/mlm.php:75
+msgid "#"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:33
+msgid "Admin"
+msgstr ""
+
+#: ../admin/views/opt_in.php:7
+msgid "Enable Opt-In"
+msgstr ""
+
+#: ../admin/views/opt_in.php:16
+msgid "Opt-In Destination:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:125 ../admin/views/opt_in.php:172
+#: ../admin/views/opt_in.php:219
+msgid "API Key"
+msgstr ""
+
+#: ../admin/views/opt_in.php:142
+msgid "ID List"
+msgstr ""
+
+#: ../admin/views/opt_in.php:236 ../admin/views/opt_in.php:299
+msgid "List ID"
+msgstr ""
+
+#: ../admin/views/opt_in.php:274
+msgid "App ID"
+msgstr ""
+
+#: ../admin/views/opt_in.php:285
+msgid "Where can I get my App ID?"
+msgstr ""
+
+#: ../admin/views/opt_in.php:291
+msgid "App Password"
+msgstr ""
+
+#: ../admin/views/opt_in.php:396
+msgid "Select Wysija List:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:480
+msgid "Api Key:"
+msgstr ""
+
+#: ../admin/views/paypal.php:21 ../admin/views/stripe.php:20
+msgid "Sandbox"
+msgstr ""
+
+#: ../admin/views/paypal.php:34
+msgid "Sandbox Client ID"
+msgstr ""
+
+#: ../admin/views/paypal.php:38
+msgid "Sandbox Client Secret"
+msgstr ""
+
+#: ../admin/views/paypal.php:42
+msgid "Client ID"
+msgstr ""
+
+#: ../admin/views/paypal.php:46
+msgid "Client Secret"
+msgstr ""
+
+#: ../admin/views/paypal.php:56
+msgid "Your current version of PHP is "
+msgstr ""
+
+#: ../admin/views/paypal.php:56
+msgid ". To use this feature You need >= PHP 5.4."
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:3 ../classes/Uap_Db.class.php:6477
+msgid "Periodically Reports"
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:33
+msgid "Referral Reports constants"
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:38
+#: ../admin/views/referral_notifications.php:38
+msgid "Native Fields constants"
+msgstr ""
+
+#: ../admin/views/qr_code.php:3 ../classes/Uap_Db.class.php:6485
+msgid "QR Codes"
+msgstr ""
+
+#: ../admin/views/qr_code.php:8
+msgid "Activate/Hold QR Codes into Account Page"
+msgstr ""
+
+#: ../admin/views/qr_code.php:31
+msgid "ECC Data Level"
+msgstr ""
+
+#: ../admin/views/qr_code.php:32
+msgid ""
+"Error Code Correction is their ability to sustain \"damage\" and continue to "
+"function even when a part of the QR code image is obscured. Level L or Level "
+"M represent the best compromise between density and ruggedness for general "
+"marketing use. "
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:231
+msgid ""
+"Available for Membership system awarding commission when referred user sign "
+"Up"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:286
+msgid "Award Commissions for recurring subscriptions into Membership systems"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:12
+#: ../admin/views/referrals-add_edit.php:13
+msgid "Referral User WP Id:"
+msgstr ""
+
+#: ../admin/views/referral_notifications.php:33
+msgid "Referral details constants"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:24
+#: ../admin/views/register-custom_fields.php:38
+msgid "WP Native"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:6
+#: ../public/views/account_page-custom_affiliate_slug.php:12
+msgid "Slug:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:93
+msgid "Style Class:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:66
+msgid "Error - ReCaptcha:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:71
+msgid "Error - TOS:"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:3
+msgid "Admin Workflow Settings"
+msgstr ""
+
+#: ../admin/views/settings-public_workflow.php:3
+msgid "Public Workflow Settings"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:3
+msgid "Main ShortCodes"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:22
+msgid "User ShortCodes"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:30
+msgid "Private Shortcode"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:31
+msgid "Public Shortcode"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:81
+msgid "Other ShortCodes"
+msgstr ""
+
+#: ../admin/views/showcases.php:6
+msgid "Front-End Showcases"
+msgstr ""
+
+#: ../admin/views/social_share.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/views/social_share.php:37
+msgid " to grab a new shortcode."
+msgstr ""
+
+#: ../admin/views/source_details.php:27
+msgid "WooCommerce Show Fields"
+msgstr ""
+
+#: ../admin/views/source_details.php:48
+msgid "Easy Download Digital Show Fields"
+msgstr ""
+
+#: ../admin/views/source_details.php:69
+msgid "Ultimate Membership Pro Show Fields"
+msgstr ""
+
+#: ../admin/views/source_details.php:97
+msgid "SignUp Show Fields"
+msgstr ""
+
+#: ../admin/views/stripe.php:3
+msgid "Stripe - Payouts"
+msgstr ""
+
+#: ../admin/views/stripe.php:7
+msgid "Activate/Hold Stripe Gateway"
+msgstr ""
+
+#: ../admin/views/stripe.php:8
+msgid ""
+"Once is activated you can proceed payments to your Affiliate users via "
+"Stripe directly from Affiliate System"
+msgstr ""
+
+#: ../admin/views/stripe.php:33
+msgid "Sandbox Secret Key"
+msgstr ""
+
+#: ../admin/views/stripe.php:39
+msgid "Sandbox Publishable Key"
+msgstr ""
+
+#: ../admin/views/stripe.php:45
+msgid "Live Secret Key"
+msgstr ""
+
+#: ../admin/views/stripe.php:51
+msgid "Live Publishable Key"
+msgstr ""
+
+#: ../admin/views/stripe.php:58
+msgid "Set Your Webhook at: "
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:43
+msgid "ShortCode Generator"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:152 ../admin/views/top_affiliates.php:153
+#: ../admin/views/top_affiliates.php:154 ../admin/views/top_affiliates.php:155
+#: ../admin/views/top_affiliates.php:156 ../admin/views/top_affiliates.php:157
+#: ../admin/views/top_affiliates.php:158 ../admin/views/top_affiliates.php:159
+#: ../admin/views/top_affiliates.php:160 ../admin/views/top_affiliates.php:161
+msgid "Theme"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:173
+msgid "Color Scheme"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:225
+msgid "Slider ShowCase"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:230
+msgid "If Slider Showcase is used, Pagination Showcase is disabled."
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:242
+msgid "Slider Timeout:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:248
+msgid "Pagination Speed:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:254
+msgid "Pagination Theme:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:258
+msgid "Pagination Theme 1"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:259
+msgid "Pagination Theme 2"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:260
+msgid "Pagination Theme 3"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:274
+msgid "Animation Slide In"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:302
+msgid "Animation Slide Out"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:335
+msgid "Bullets"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:339
+msgid "Nav Button"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:351
+msgid "Responsive"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:359
+msgid "Lazy Load"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:363
+msgid "Play in Loop"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:375
+msgid "Displayed User Fields"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:434
+msgid "ShortCode :"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:438
+msgid "PHP Code:"
+msgstr ""
+
+#: ../admin/views/top_affiliates_settings.php:6
+msgid "Responsive Settings"
+msgstr ""
+
+#: ../admin/views/visits.php:43 ../admin/views/visits.php:56
+msgid "IP"
+msgstr ""
+
+#: ../admin/views/woo_account_page.php:3
+msgid "WooCommerce Account Page"
+msgstr ""
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:362
+msgid "Affiliate Slug"
+msgstr ""
+
+#: ../classes/Uap_Ajax.class.php:489
+msgid "Just a simple message to test if Your E-mail Server is working"
+msgstr ""
+
+#: ../classes/Uap_BP_Custom_Menu_item.class.php:46
+msgid "Ultimate Affiliate Pro"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:363
+msgid "Demo Banner 1"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:370
+msgid "Demo Banner 2"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:377
+msgid "Demo Banner 3"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:384
+msgid "Demo Banner 4"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:391
+msgid "Demo Banner 5"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:6405
+msgid "Opt-In"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:6453
+msgid "WooCommerce Account Page Integration"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:6461
+msgid "BuddyPress Account Page Integration"
+msgstr ""
+
+#: ../public/views/account_page-header.php:65
+msgid "Marketing"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:41
+msgid "CVC"
+msgstr ""
+
+#: ../public/views/account_page-referrals.php:27
+msgid "Id"
+msgstr ""
+
+#: ../public/views/trial_version_message.php:2
+msgid ""
+"This is a Trial Version of <strong>Ultimate Affiliate Pro</strong> plugin. "
+"Please add your purchase code into Licence section to enable the Full "
+"Ultimate Affiliate Pro Version."
+msgstr ""
+
+#: ../utilities.php:1341
+msgid "Based on Subscription purchases from Ultimate Membership system"
+msgstr ""
+
+#: ../utilities.php:1347
+msgid "Based on Product purchases from Easy Digital Downloads system"
+msgstr ""
+
+#: ../utilities.php:1510
+msgid "Afghanistan"
+msgstr ""
+
+#: ../utilities.php:1511
+msgid "&#197;land Islands"
+msgstr ""
+
+#: ../utilities.php:1512
+msgid "Albania"
+msgstr ""
+
+#: ../utilities.php:1513
+msgid "Algeria"
+msgstr ""
+
+#: ../utilities.php:1514
+msgid "American Samoa"
+msgstr ""
+
+#: ../utilities.php:1515
+msgid "Andorra"
+msgstr ""
+
+#: ../utilities.php:1516
+msgid "Angola"
+msgstr ""
+
+#: ../utilities.php:1517
+msgid "Anguilla"
+msgstr ""
+
+#: ../utilities.php:1518
+msgid "Antarctica"
+msgstr ""
+
+#: ../utilities.php:1519
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../utilities.php:1520
+msgid "Argentina"
+msgstr ""
+
+#: ../utilities.php:1521
+msgid "Armenia"
+msgstr ""
+
+#: ../utilities.php:1522
+msgid "Aruba"
+msgstr ""
+
+#: ../utilities.php:1523
+msgid "Australia"
+msgstr ""
+
+#: ../utilities.php:1524
+msgid "Austria"
+msgstr ""
+
+#: ../utilities.php:1525
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../utilities.php:1526
+msgid "Bahamas"
+msgstr ""
+
+#: ../utilities.php:1527
+msgid "Bahrain"
+msgstr ""
+
+#: ../utilities.php:1528
+msgid "Bangladesh"
+msgstr ""
+
+#: ../utilities.php:1529
+msgid "Barbados"
+msgstr ""
+
+#: ../utilities.php:1530
+msgid "Belarus"
+msgstr ""
+
+#: ../utilities.php:1531
+msgid "Belgium"
+msgstr ""
+
+#: ../utilities.php:1532
+msgid "Belau"
+msgstr ""
+
+#: ../utilities.php:1533
+msgid "Belize"
+msgstr ""
+
+#: ../utilities.php:1534
+msgid "Benin"
+msgstr ""
+
+#: ../utilities.php:1535
+msgid "Bermuda"
+msgstr ""
+
+#: ../utilities.php:1536
+msgid "Bhutan"
+msgstr ""
+
+#: ../utilities.php:1537
+msgid "Bolivia"
+msgstr ""
+
+#: ../utilities.php:1538
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: ../utilities.php:1539
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../utilities.php:1540
+msgid "Botswana"
+msgstr ""
+
+#: ../utilities.php:1541
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../utilities.php:1542
+msgid "Brazil"
+msgstr ""
+
+#: ../utilities.php:1543
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../utilities.php:1544
+msgid "British Virgin Islands"
+msgstr ""
+
+#: ../utilities.php:1545
+msgid "Brunei"
+msgstr ""
+
+#: ../utilities.php:1546
+msgid "Bulgaria"
+msgstr ""
+
+#: ../utilities.php:1547
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../utilities.php:1548
+msgid "Burundi"
+msgstr ""
+
+#: ../utilities.php:1549
+msgid "Cambodia"
+msgstr ""
+
+#: ../utilities.php:1550
+msgid "Cameroon"
+msgstr ""
+
+#: ../utilities.php:1551
+msgid "Canada"
+msgstr ""
+
+#: ../utilities.php:1552
+msgid "Cape Verde"
+msgstr ""
+
+#: ../utilities.php:1553
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../utilities.php:1554
+msgid "Central African Republic"
+msgstr ""
+
+#: ../utilities.php:1555
+msgid "Chad"
+msgstr ""
+
+#: ../utilities.php:1556
+msgid "Chile"
+msgstr ""
+
+#: ../utilities.php:1557
+msgid "China"
+msgstr ""
+
+#: ../utilities.php:1558
+msgid "Christmas Island"
+msgstr ""
+
+#: ../utilities.php:1559
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../utilities.php:1560
+msgid "Colombia"
+msgstr ""
+
+#: ../utilities.php:1561
+msgid "Comoros"
+msgstr ""
+
+#: ../utilities.php:1562
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: ../utilities.php:1563
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: ../utilities.php:1564
+msgid "Cook Islands"
+msgstr ""
+
+#: ../utilities.php:1565
+msgid "Costa Rica"
+msgstr ""
+
+#: ../utilities.php:1566
+msgid "Croatia"
+msgstr ""
+
+#: ../utilities.php:1567
+msgid "Cuba"
+msgstr ""
+
+#: ../utilities.php:1568
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: ../utilities.php:1569
+msgid "Cyprus"
+msgstr ""
+
+#: ../utilities.php:1570
+msgid "Czech Republic"
+msgstr ""
+
+#: ../utilities.php:1571
+msgid "Denmark"
+msgstr ""
+
+#: ../utilities.php:1572
+msgid "Djibouti"
+msgstr ""
+
+#: ../utilities.php:1573
+msgid "Dominica"
+msgstr ""
+
+#: ../utilities.php:1574
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../utilities.php:1575
+msgid "Ecuador"
+msgstr ""
+
+#: ../utilities.php:1576
+msgid "Egypt"
+msgstr ""
+
+#: ../utilities.php:1577
+msgid "El Salvador"
+msgstr ""
+
+#: ../utilities.php:1578
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../utilities.php:1579
+msgid "Eritrea"
+msgstr ""
+
+#: ../utilities.php:1580
+msgid "Estonia"
+msgstr ""
+
+#: ../utilities.php:1581
+msgid "Ethiopia"
+msgstr ""
+
+#: ../utilities.php:1582
+msgid "Falkland Islands"
+msgstr ""
+
+#: ../utilities.php:1583
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../utilities.php:1584
+msgid "Fiji"
+msgstr ""
+
+#: ../utilities.php:1585
+msgid "Finland"
+msgstr ""
+
+#: ../utilities.php:1586
+msgid "France"
+msgstr ""
+
+#: ../utilities.php:1587
+msgid "French Guiana"
+msgstr ""
+
+#: ../utilities.php:1588
+msgid "French Polynesia"
+msgstr ""
+
+#: ../utilities.php:1589
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../utilities.php:1590
+msgid "Gabon"
+msgstr ""
+
+#: ../utilities.php:1591
+msgid "Gambia"
+msgstr ""
+
+#: ../utilities.php:1592
+msgid "Georgia"
+msgstr ""
+
+#: ../utilities.php:1593
+msgid "Germany"
+msgstr ""
+
+#: ../utilities.php:1594
+msgid "Ghana"
+msgstr ""
+
+#: ../utilities.php:1595
+msgid "Gibraltar"
+msgstr ""
+
+#: ../utilities.php:1596
+msgid "Greece"
+msgstr ""
+
+#: ../utilities.php:1597
+msgid "Greenland"
+msgstr ""
+
+#: ../utilities.php:1598
+msgid "Grenada"
+msgstr ""
+
+#: ../utilities.php:1599
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../utilities.php:1600
+msgid "Guam"
+msgstr ""
+
+#: ../utilities.php:1601
+msgid "Guatemala"
+msgstr ""
+
+#: ../utilities.php:1602
+msgid "Guernsey"
+msgstr ""
+
+#: ../utilities.php:1603
+msgid "Guinea"
+msgstr ""
+
+#: ../utilities.php:1604
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../utilities.php:1605
+msgid "Guyana"
+msgstr ""
+
+#: ../utilities.php:1606
+msgid "Haiti"
+msgstr ""
+
+#: ../utilities.php:1607
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: ../utilities.php:1608
+msgid "Honduras"
+msgstr ""
+
+#: ../utilities.php:1609
+msgid "Hong Kong"
+msgstr ""
+
+#: ../utilities.php:1610
+msgid "Hungary"
+msgstr ""
+
+#: ../utilities.php:1611
+msgid "Iceland"
+msgstr ""
+
+#: ../utilities.php:1612
+msgid "India"
+msgstr ""
+
+#: ../utilities.php:1613
+msgid "Indonesia"
+msgstr ""
+
+#: ../utilities.php:1614
+msgid "Iran"
+msgstr ""
+
+#: ../utilities.php:1615
+msgid "Iraq"
+msgstr ""
+
+#: ../utilities.php:1616
+msgid "Republic of Ireland"
+msgstr ""
+
+#: ../utilities.php:1617
+msgid "Isle of Man"
+msgstr ""
+
+#: ../utilities.php:1618
+msgid "Israel"
+msgstr ""
+
+#: ../utilities.php:1619
+msgid "Italy"
+msgstr ""
+
+#: ../utilities.php:1620
+msgid "Ivory Coast"
+msgstr ""
+
+#: ../utilities.php:1621
+msgid "Jamaica"
+msgstr ""
+
+#: ../utilities.php:1622
+msgid "Japan"
+msgstr ""
+
+#: ../utilities.php:1623
+msgid "Jersey"
+msgstr ""
+
+#: ../utilities.php:1624
+msgid "Jordan"
+msgstr ""
+
+#: ../utilities.php:1625
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../utilities.php:1626
+msgid "Kenya"
+msgstr ""
+
+#: ../utilities.php:1627
+msgid "Kiribati"
+msgstr ""
+
+#: ../utilities.php:1628
+msgid "Kuwait"
+msgstr ""
+
+#: ../utilities.php:1629
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../utilities.php:1630
+msgid "Laos"
+msgstr ""
+
+#: ../utilities.php:1631
+msgid "Latvia"
+msgstr ""
+
+#: ../utilities.php:1632
+msgid "Lebanon"
+msgstr ""
+
+#: ../utilities.php:1633
+msgid "Lesotho"
+msgstr ""
+
+#: ../utilities.php:1634
+msgid "Liberia"
+msgstr ""
+
+#: ../utilities.php:1635
+msgid "Libya"
+msgstr ""
+
+#: ../utilities.php:1636
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../utilities.php:1637
+msgid "Lithuania"
+msgstr ""
+
+#: ../utilities.php:1638
+msgid "Luxembourg"
+msgstr ""
+
+#: ../utilities.php:1639
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: ../utilities.php:1640
+msgid "Macedonia"
+msgstr ""
+
+#: ../utilities.php:1641
+msgid "Madagascar"
+msgstr ""
+
+#: ../utilities.php:1642
+msgid "Malawi"
+msgstr ""
+
+#: ../utilities.php:1643
+msgid "Malaysia"
+msgstr ""
+
+#: ../utilities.php:1644
+msgid "Maldives"
+msgstr ""
+
+#: ../utilities.php:1645
+msgid "Mali"
+msgstr ""
+
+#: ../utilities.php:1646
+msgid "Malta"
+msgstr ""
+
+#: ../utilities.php:1647
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../utilities.php:1648
+msgid "Martinique"
+msgstr ""
+
+#: ../utilities.php:1649
+msgid "Mauritania"
+msgstr ""
+
+#: ../utilities.php:1650
+msgid "Mauritius"
+msgstr ""
+
+#: ../utilities.php:1651
+msgid "Mayotte"
+msgstr ""
+
+#: ../utilities.php:1652
+msgid "Mexico"
+msgstr ""
+
+#: ../utilities.php:1653
+msgid "Micronesia"
+msgstr ""
+
+#: ../utilities.php:1654
+msgid "Moldova"
+msgstr ""
+
+#: ../utilities.php:1655
+msgid "Monaco"
+msgstr ""
+
+#: ../utilities.php:1656
+msgid "Mongolia"
+msgstr ""
+
+#: ../utilities.php:1657
+msgid "Montenegro"
+msgstr ""
+
+#: ../utilities.php:1658
+msgid "Montserrat"
+msgstr ""
+
+#: ../utilities.php:1659
+msgid "Morocco"
+msgstr ""
+
+#: ../utilities.php:1660
+msgid "Mozambique"
+msgstr ""
+
+#: ../utilities.php:1661
+msgid "Myanmar"
+msgstr ""
+
+#: ../utilities.php:1662
+msgid "Namibia"
+msgstr ""
+
+#: ../utilities.php:1663
+msgid "Nauru"
+msgstr ""
+
+#: ../utilities.php:1664
+msgid "Nepal"
+msgstr ""
+
+#: ../utilities.php:1665
+msgid "Netherlands"
+msgstr ""
+
+#: ../utilities.php:1666
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: ../utilities.php:1667
+msgid "New Caledonia"
+msgstr ""
+
+#: ../utilities.php:1668
+msgid "New Zealand"
+msgstr ""
+
+#: ../utilities.php:1669
+msgid "Nicaragua"
+msgstr ""
+
+#: ../utilities.php:1670
+msgid "Niger"
+msgstr ""
+
+#: ../utilities.php:1671
+msgid "Nigeria"
+msgstr ""
+
+#: ../utilities.php:1672
+msgid "Niue"
+msgstr ""
+
+#: ../utilities.php:1673
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../utilities.php:1674
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../utilities.php:1675
+msgid "North Korea"
+msgstr ""
+
+#: ../utilities.php:1676
+msgid "Norway"
+msgstr ""
+
+#: ../utilities.php:1677
+msgid "Oman"
+msgstr ""
+
+#: ../utilities.php:1678
+msgid "Pakistan"
+msgstr ""
+
+#: ../utilities.php:1679
+msgid "Palestinian Territory"
+msgstr ""
+
+#: ../utilities.php:1680
+msgid "Panama"
+msgstr ""
+
+#: ../utilities.php:1681
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../utilities.php:1682
+msgid "Paraguay"
+msgstr ""
+
+#: ../utilities.php:1683
+msgid "Peru"
+msgstr ""
+
+#: ../utilities.php:1684
+msgid "Philippines"
+msgstr ""
+
+#: ../utilities.php:1685
+msgid "Pitcairn"
+msgstr ""
+
+#: ../utilities.php:1686
+msgid "Poland"
+msgstr ""
+
+#: ../utilities.php:1687
+msgid "Portugal"
+msgstr ""
+
+#: ../utilities.php:1688
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../utilities.php:1689
+msgid "Qatar"
+msgstr ""
+
+#: ../utilities.php:1690
+msgid "Reunion"
+msgstr ""
+
+#: ../utilities.php:1691
+msgid "Romania"
+msgstr ""
+
+#: ../utilities.php:1692
+msgid "Russia"
+msgstr ""
+
+#: ../utilities.php:1693
+msgid "Rwanda"
+msgstr ""
+
+#: ../utilities.php:1694
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: ../utilities.php:1695
+msgid "Saint Helena"
+msgstr ""
+
+#: ../utilities.php:1696
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../utilities.php:1697
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../utilities.php:1698
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: ../utilities.php:1699
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: ../utilities.php:1700
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: ../utilities.php:1701
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../utilities.php:1702
+msgid "San Marino"
+msgstr ""
+
+#: ../utilities.php:1703
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: ../utilities.php:1704
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../utilities.php:1705
+msgid "Senegal"
+msgstr ""
+
+#: ../utilities.php:1706
+msgid "Serbia"
+msgstr ""
+
+#: ../utilities.php:1707
+msgid "Seychelles"
+msgstr ""
+
+#: ../utilities.php:1708
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../utilities.php:1709
+msgid "Singapore"
+msgstr ""
+
+#: ../utilities.php:1710
+msgid "Slovakia"
+msgstr ""
+
+#: ../utilities.php:1711
+msgid "Slovenia"
+msgstr ""
+
+#: ../utilities.php:1712
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../utilities.php:1713
+msgid "Somalia"
+msgstr ""
+
+#: ../utilities.php:1714
+msgid "South Africa"
+msgstr ""
+
+#: ../utilities.php:1715
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: ../utilities.php:1716
+msgid "South Korea"
+msgstr ""
+
+#: ../utilities.php:1717
+msgid "South Sudan"
+msgstr ""
+
+#: ../utilities.php:1718
+msgid "Spain"
+msgstr ""
+
+#: ../utilities.php:1719
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../utilities.php:1720
+msgid "Sudan"
+msgstr ""
+
+#: ../utilities.php:1721
+msgid "Suriname"
+msgstr ""
+
+#: ../utilities.php:1722
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: ../utilities.php:1723
+msgid "Swaziland"
+msgstr ""
+
+#: ../utilities.php:1724
+msgid "Sweden"
+msgstr ""
+
+#: ../utilities.php:1725
+msgid "Switzerland"
+msgstr ""
+
+#: ../utilities.php:1726
+msgid "Syria"
+msgstr ""
+
+#: ../utilities.php:1727
+msgid "Taiwan"
+msgstr ""
+
+#: ../utilities.php:1728
+msgid "Tajikistan"
+msgstr ""
+
+#: ../utilities.php:1729
+msgid "Tanzania"
+msgstr ""
+
+#: ../utilities.php:1730
+msgid "Thailand"
+msgstr ""
+
+#: ../utilities.php:1731
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../utilities.php:1732
+msgid "Togo"
+msgstr ""
+
+#: ../utilities.php:1733
+msgid "Tokelau"
+msgstr ""
+
+#: ../utilities.php:1734
+msgid "Tonga"
+msgstr ""
+
+#: ../utilities.php:1735
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../utilities.php:1736
+msgid "Tunisia"
+msgstr ""
+
+#: ../utilities.php:1737
+msgid "Turkey"
+msgstr ""
+
+#: ../utilities.php:1738
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../utilities.php:1739
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: ../utilities.php:1740
+msgid "Tuvalu"
+msgstr ""
+
+#: ../utilities.php:1741
+msgid "Uganda"
+msgstr ""
+
+#: ../utilities.php:1742
+msgid "Ukraine"
+msgstr ""
+
+#: ../utilities.php:1743
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../utilities.php:1744
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: ../utilities.php:1745
+msgid "United States (US)"
+msgstr ""
+
+#: ../utilities.php:1746
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: ../utilities.php:1747
+msgid "United States (US) Virgin Islands"
+msgstr ""
+
+#: ../utilities.php:1748
+msgid "Uruguay"
+msgstr ""
+
+#: ../utilities.php:1749
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../utilities.php:1750
+msgid "Vanuatu"
+msgstr ""
+
+#: ../utilities.php:1751
+msgid "Vatican"
+msgstr ""
+
+#: ../utilities.php:1752
+msgid "Venezuela"
+msgstr ""
+
+#: ../utilities.php:1754
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: ../utilities.php:1755
+msgid "Western Sahara"
+msgstr ""
+
+#: ../utilities.php:1756
+msgid "Samoa"
+msgstr ""
+
+#: ../utilities.php:1757
+msgid "Yemen"
+msgstr ""
+
+#: ../utilities.php:1758
+msgid "Zambia"
+msgstr ""
+
+#: ../utilities.php:1759
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../utilities.php:1344
+msgid "Based on Product purchases from WooCommerce system"
+msgstr "Dựa theo sản phẩm đặt mua từ hệ thống woocommerce của Javis Store"
+
+#: ../utilities.php:1350
+msgid "Related on Rewarads provided to Affiliate from your MLM System"
+msgstr ""
+"Liên quan tới thưởng được đề xuất cho các Affiliate từ hệ thống đa câp của "
+"bạn."
+
+#: ../utilities.php:1356
+msgid "Referrals from based on new user SignUp Rewards system"
+msgstr ""
+"Người giới thiệu dựa theo thành viên đăng ký từ hệ thống Rewards (Có thể bạn "
+"không phải bận tâm cái này)"
+
+#: ../admin/Uap_Main_Admin.class.php:131
+msgid "Cron is disabled!"
+msgstr "Đăng kí đã bị vô hiệu hóa!"
+
+#: ../admin/Uap_Main_Admin.class.php:139 ../admin/Uap_Main_Admin.class.php:143
+msgid "PayPal is not set properly!"
+msgstr "PayPal không được thiết lập đúng cách!"
+
+#: ../admin/Uap_Main_Admin.class.php:151 ../admin/Uap_Main_Admin.class.php:155
+msgid "Stripe is not set properly!"
+msgstr "Stripe không được thiết lập đúng cách!"
+
+#: ../admin/Uap_Main_Admin.class.php:386 ../admin/views/dashboard.php:81
+msgid "Affiliates"
+msgstr "Affiliates"
+
+#: ../admin/Uap_Main_Admin.class.php:387 ../admin/views/ranks-list.php:2
+#: ../indeed-affiliate-pro.php:123
+msgid "Ranks"
+msgstr "Thứ hạng"
+
+#: ../admin/Uap_Main_Admin.class.php:388 ../admin/views/offers-list.php:2
+msgid "Offers"
+msgstr "Phiếu mua hàng"
+
+#: ../admin/Uap_Main_Admin.class.php:389
+#: ../admin/views/landing_commissions-list.php:2
+msgid "Landing Commissions"
+msgstr "Mức hoa hồng"
+
+#: ../admin/Uap_Main_Admin.class.php:390 ../admin/Uap_Main_Admin.class.php:1863
+#: ../classes/Uap_Db.class.php:1421 ../classes/Uap_Db.class.php:1422
+#: ../public/views/account_page-header.php:68
+msgid "Banners"
+msgstr "Ảnh banners"
+
+#: ../admin/Uap_Main_Admin.class.php:392 ../admin/Uap_Main_Admin.class.php:1869
+#: ../admin/views/affiliates-list.php:98 ../admin/views/affiliates-list.php:117
+#: ../admin/views/reports.php:70 ../admin/views/top_affiliates.php:74
+#: ../admin/views/top_affiliates.php:386 ../admin/views/visits.php:2
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:28
+msgid "Visits"
+msgstr "Truy cập"
+
+#: ../admin/Uap_Main_Admin.class.php:393 ../admin/Uap_Main_Admin.class.php:1865
+#: ../admin/views/affiliates-list.php:97 ../admin/views/affiliates-list.php:116
+#: ../admin/views/referrals-list.php:2 ../admin/views/top_affiliates.php:72
+#: ../admin/views/top_affiliates.php:385 ../classes/Uap_Db.class.php:1427
+#: ../classes/Uap_Db.class.php:1428
+#: ../public/views/account_page-campaign_reports.php:18
+#: ../public/views/account_page-campaign_reports.php:26
+#: ../public/views/account_page-header.php:31
+#: ../public/views/account_page-referrals.php:20
+#: ../public/views/wallet-add_new.php:22
+msgid "Referrals"
+msgstr "Người giới thiệu"
+
+#: ../admin/Uap_Main_Admin.class.php:394 ../admin/Uap_Main_Admin.class.php:1866
+#: ../admin/views/notifications-add_edit.php:24
+#: ../classes/Uap_Db.class.php:1436 ../classes/Uap_Db.class.php:1437
+msgid "Payments"
+msgstr "Thanh toán"
+
+#: ../admin/Uap_Main_Admin.class.php:395 ../indeed-affiliate-pro.php:122
+msgid "Magic Features"
+msgstr "Đặc tính nổi bật"
+
+#: ../admin/Uap_Main_Admin.class.php:396 ../admin/Uap_Main_Admin.class.php:1628
+#: ../admin/Uap_Main_Admin.class.php:1873
+#: ../admin/views/notifications-list.php:2 ../classes/Uap_Db.class.php:1460
+#: ../classes/Uap_Db.class.php:1461 ../indeed-affiliate-pro.php:124
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: ../admin/Uap_Main_Admin.class.php:397 ../admin/Uap_Main_Admin.class.php:1564
+#: ../admin/Uap_Main_Admin.class.php:1867
+#: ../admin/views/affiliates-list.php:238 ../admin/views/reports.php:2
+#: ../public/views/account_page-header.php:74
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: ../admin/Uap_Main_Admin.class.php:398
+msgid "General Options"
+msgstr "Tùy chọn tổng quát"
+
+#: ../admin/Uap_Main_Admin.class.php:402 ../admin/Uap_Main_Admin.class.php:1874
+#: ../admin/views/help.php:2 ../classes/Uap_Db.class.php:1442
+#: ../classes/Uap_Db.class.php:1443 ../public/views/account_page-header.php:82
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: ../admin/Uap_Main_Admin.class.php:692
+msgid ""
+"Be sure that you have filled all the reguired fields: Name, Amount, Date "
+"Range."
+msgstr "Hãy chắc chẵn bạn đã điền đủ hết các thông tin"
+
+#: ../admin/Uap_Main_Admin.class.php:724
+msgid "Be sure that you have filled all the required fields: Slug and Amount."
+msgstr "Hãy chắc chẵn bạn đã điều hết các ô bắt buộc"
+
+#: ../admin/Uap_Main_Admin.class.php:760
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:1006
+#: ../public/Uap_Login.class.php:62 ../public/Uap_Login.class.php:73
+msgid "Error"
+msgstr "lỗi"
+
+#: ../admin/Uap_Main_Admin.class.php:832 ../admin/Uap_Main_Admin.class.php:1586
+msgid "View Referrals for"
+msgstr "Xem người giới thiệu"
+
+#: ../admin/Uap_Main_Admin.class.php:863
+#: ../admin/views/referral_list_details.php:107
+#: ../admin/views/referrals-list.php:158 ../admin/views/referrals-list.php:171
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:141
+#: ../public/Affiliate_Account_Page.class.php:582
+#: ../public/views/account_page-referrals.php:68
+#: ../public/views/account_page-referrals_history.php:55
+msgid "Refuse"
+msgstr "Từ chối"
+
+#: ../admin/Uap_Main_Admin.class.php:864 ../admin/views/bonus_on_rank.php:43
+#: ../admin/views/landing_commissions-add_edit.php:52
+#: ../admin/views/referrals-list.php:162 ../admin/views/referrals-list.php:171
+#: ../admin/views/sign_up_referrals.php:34
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:144
+#: ../public/Affiliate_Account_Page.class.php:583
+#: ../public/views/account_page-referrals.php:70
+#: ../public/views/account_page-referrals_history.php:57
+msgid "Unverified"
+msgstr "Chưa xác nhận"
+
+#: ../admin/Uap_Main_Admin.class.php:865 ../admin/views/affiliates-list.php:176
+#: ../admin/views/affiliates-list.php:219 ../admin/views/bonus_on_rank.php:43
+#: ../admin/views/landing_commissions-add_edit.php:52
+#: ../admin/views/referral_list_details.php:113
+#: ../admin/views/referrals-list.php:166 ../admin/views/referrals-list.php:171
+#: ../admin/views/sign_up_referrals.php:34
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:147
+#: ../public/Affiliate_Account_Page.class.php:584
+#: ../public/views/account_page-referrals.php:72
+#: ../public/views/account_page-referrals_history.php:59
+msgid "Verified"
+msgstr "Đã được xác nhận"
+
+#: ../admin/Uap_Main_Admin.class.php:872 ../admin/views/affiliates-list.php:83
+#: ../admin/views/affiliates-list.php:171 ../admin/views/banners-list.php:8
+#: ../admin/views/banners-list.php:38 ../admin/views/banners-list.php:49
+#: ../admin/views/coupons-list.php:53
+#: ../admin/views/landing_commissions-list.php:30
+#: ../admin/views/lifetime_commissions.php:82
+#: ../admin/views/notifications-list.php:48 ../admin/views/offers-list.php:28
+#: ../admin/views/ranks-list.php:34 ../admin/views/referrals-list.php:97
+#: ../admin/views/transactions.php:102 ../admin/views/visits.php:37
+#: ../admin/views/visits.php:73 ../admin/views/visits.php:97
+#: ../public/views/wallet.php:44
+msgid "Delete"
+msgstr "Xóa"
+
+#: ../admin/Uap_Main_Admin.class.php:873
+msgid "Mark as Refuse"
+msgstr "Đánh dấu từ chối"
+
+#: ../admin/Uap_Main_Admin.class.php:874
+msgid "Mark as Unverified"
+msgstr "Đánh dấu chưa xác nhận"
+
+#: ../admin/Uap_Main_Admin.class.php:875
+msgid "Mark as Verified"
+msgstr "Đã được xác nhận"
+
+#: ../admin/Uap_Main_Admin.class.php:973
+msgid "Payments For Affiliates"
+msgstr "Thanh toán cho affiliates"
+
+#: ../admin/Uap_Main_Admin.class.php:974
+msgid "All UnPaid Referrals"
+msgstr "Người giới thiệu chưa thanh toán"
+
+#: ../admin/Uap_Main_Admin.class.php:975
+msgid "All Paid Referrals"
+msgstr "Người giới thiệu đã thanh toán"
+
+#: ../admin/Uap_Main_Admin.class.php:976 ../admin/views/payments.php:89
+#: ../admin/views/payments.php:99
+msgid "All Transactions"
+msgstr "Tất cả các giao dịch"
+
+#: ../admin/Uap_Main_Admin.class.php:1138
+msgid "View Transactions for"
+msgstr "Xem các giao dịch"
+
+#: ../admin/Uap_Main_Admin.class.php:1190
+msgid "View UnPaid Referrals for"
+msgstr "Xem người giới thiệu chưa thanh toán"
+
+#: ../admin/Uap_Main_Admin.class.php:1235
+msgid "View Paid Referrals for"
+msgstr "Xem người giới thiệu đã thanh toán"
+
+#: ../admin/Uap_Main_Admin.class.php:1502
+msgid "Affiliate Register - Admin Notification"
+msgstr "Đăng ký affiliate - Thông báo tới admin"
+
+#: ../admin/Uap_Main_Admin.class.php:1503
+msgid "Affiliate Register - User Notification"
+msgstr "Đăng ký affiliates - thông báo tới thành viên"
+
+#: ../admin/Uap_Main_Admin.class.php:1504
+msgid "Affiliate - Approve Account"
+msgstr "Affiliates - chấp nhận tài khoản"
+
+#: ../admin/Uap_Main_Admin.class.php:1505
+msgid "Affiliate - Delete Account"
+msgstr "Affiliates - xóa tài khoản"
+
+#: ../admin/Uap_Main_Admin.class.php:1506
+msgid "User Profile Updates"
+msgstr "Cập nhật thông tin thành viên"
+
+#: ../admin/Uap_Main_Admin.class.php:1507
+msgid "Affiliate get new Rank"
+msgstr "Affiliates tăng thứ hạng mới"
+
+#: ../admin/Uap_Main_Admin.class.php:1508
+msgid "Reset Password - Start Process"
+msgstr "Đặt lại mật khẩu - bắt đầu tiến trình"
+
+#: ../admin/Uap_Main_Admin.class.php:1509
+msgid "Reset Password - New Password"
+msgstr "Đặt lại mật khẩu - mật khẩu mới"
+
+#: ../admin/Uap_Main_Admin.class.php:1510
+#: ../admin/Uap_Main_Admin.class.php:1858 ../classes/Uap_Db.class.php:1411
+#: ../classes/Uap_Db.class.php:1412 ../public/views/account_page-header.php:61
+msgid "Change Password"
+msgstr "Đặt lại mật khẩu"
+
+#: ../admin/Uap_Main_Admin.class.php:1511
+msgid "Admin - Affiliate get new Rank"
+msgstr "Admin - Affiliate tăng thứ hạng "
+
+#: ../admin/Uap_Main_Admin.class.php:1512
+msgid "Admin - Affiliate update profile"
+msgstr "Admin - Affiliate cập nhật tài khoản"
+
+#: ../admin/Uap_Main_Admin.class.php:1513
+msgid "Affiliate - Payment Inform - Fail"
+msgstr "Affiliates - thông tin thanh toán - lỗi"
+
+#: ../admin/Uap_Main_Admin.class.php:1514
+msgid "Affiliate - Payment Inform - Pending"
+msgstr "Affiliates - thông tin thanh toán - đang chờ"
+
+#: ../admin/Uap_Main_Admin.class.php:1515
+msgid "Affiliate - Payment Inform - Complete"
+msgstr "Affiliates - thông tin thanh toán - hoàn tất"
+
+#: ../admin/Uap_Main_Admin.class.php:1516
+msgid "Affiliate - Double E-mail Verification Request"
+msgstr "Affiliate - có 2 yêu cầu xác nhận email"
+
+#: ../admin/Uap_Main_Admin.class.php:1517
+msgid "Affiliate - Double E-mail Verification Validated"
+msgstr "Affiliate - có 2 yêu cầu xác nhận email hợp lệ"
+
+#: ../admin/Uap_Main_Admin.class.php:1527
+#: ../admin/views/notifications-list.php:60 ../classes/Uap_Db.class.php:2835
+msgid "All"
+msgstr "Tất cả"
+
+#: ../admin/Uap_Main_Admin.class.php:1565 ../admin/views/achievements.php:2
+msgid "Achievements"
+msgstr "Hoàn tất"
+
+#: ../admin/Uap_Main_Admin.class.php:1574
+msgid "Today"
+msgstr "Hôm nay"
+
+#: ../admin/Uap_Main_Admin.class.php:1575
+msgid "Yesterday"
+msgstr "hôm qua"
+
+#: ../admin/Uap_Main_Admin.class.php:1576
+msgid "Last Week"
+msgstr "Tuần trước"
+
+#: ../admin/Uap_Main_Admin.class.php:1577
+msgid "Last Month"
+msgstr "Tháng trước"
+
+#: ../admin/Uap_Main_Admin.class.php:1578
+msgid "All Time"
+msgstr "Tất cả thời gian"
+
+#: ../admin/Uap_Main_Admin.class.php:1625 ../admin/views/settings-general.php:3
+msgid "General Settings"
+msgstr "Cài đặt tổng quát"
+
+#: ../admin/Uap_Main_Admin.class.php:1629
+msgid "Default Pages"
+msgstr "Trang mặc định"
+
+#: ../admin/Uap_Main_Admin.class.php:1630
+#: ../admin/views/settings-redirects.php:7
+msgid "Default Redirects"
+msgstr "Chuyển hướng mặc định"
+
+#: ../admin/Uap_Main_Admin.class.php:1631
+msgid "Access"
+msgstr "Truy cập"
+
+#: ../admin/Uap_Main_Admin.class.php:1633 ../admin/views/settings-uploads.php:3
+msgid "Uploads Settings"
+msgstr "Cài đặt tải lên"
+
+#: ../admin/Uap_Main_Admin.class.php:1727
+msgid "Register Showcase"
+msgstr "Đăng ký"
+
+#: ../admin/Uap_Main_Admin.class.php:1728
+#: ../admin/Uap_Main_Admin.class.php:1809
+#: ../admin/views/register-custom_messages.php:3
+msgid "Custom Messages"
+msgstr "Tùy chỉnh tin nhắn"
+
+#: ../admin/Uap_Main_Admin.class.php:1729
+msgid "Custom Fields"
+msgstr "Tùy chỉnh trường"
+
+#: ../admin/Uap_Main_Admin.class.php:1730 ../admin/views/opt_in.php:4
+msgid "Opt-In Settings"
+msgstr "Cài đặt đăng ký email"
+
+#: ../admin/Uap_Main_Admin.class.php:1769
+msgid "Text"
+msgstr "Văn bản"
+
+#: ../admin/Uap_Main_Admin.class.php:1770
+msgid "Textarea"
+msgstr "Đoạn văn"
+
+#: ../admin/Uap_Main_Admin.class.php:1771
+msgid "Date Picker"
+msgstr "Chọn ngày"
+
+#: ../admin/Uap_Main_Admin.class.php:1772
+msgid "Number"
+msgstr "Số"
+
+#: ../admin/Uap_Main_Admin.class.php:1773 ../public/views/wallet-add_new.php:28
+msgid "Select"
+msgstr "Lựa chọn"
+
+#: ../admin/Uap_Main_Admin.class.php:1774
+msgid "Multiselect Box"
+msgstr "Đa lựa chọn"
+
+#: ../admin/Uap_Main_Admin.class.php:1777
+msgid "File Upload"
+msgstr "Tải file lên"
+
+#: ../admin/Uap_Main_Admin.class.php:1778
+msgid "Plain Text"
+msgstr "Văn bản thuần túy"
+
+#: ../admin/Uap_Main_Admin.class.php:1779
+msgid "Verification Code"
+msgstr "Mã xác nhận"
+
+#: ../admin/Uap_Main_Admin.class.php:1808
+msgid "Login Showcase"
+msgstr "Đăng nhập"
+
+#: ../admin/Uap_Main_Admin.class.php:1828
+#: ../admin/views/register-settings.php:15
+#: ../admin/views/register-settings.php:16
+msgid "Template"
+msgstr "Mẫu"
+
+#: ../admin/Uap_Main_Admin.class.php:1856 ../classes/Uap_Db.class.php:1402
+#: ../classes/Uap_Db.class.php:1403 ../public/views/account_page-header.php:58
+msgid "Overview"
+msgstr "Tổng quan"
+
+#: ../admin/Uap_Main_Admin.class.php:1857 ../classes/Uap_Db.class.php:1408
+#: ../classes/Uap_Db.class.php:1409 ../public/views/account_page-header.php:60
+msgid "Edit Account"
+msgstr "Sửa tài khoản"
+
+#: ../admin/Uap_Main_Admin.class.php:1859
+#: ../admin/views/custom_affiliate_slug.php:6 ../classes/Uap_Db.class.php:1451
+#: ../classes/Uap_Db.class.php:6429
+#: ../public/views/account_page-generate_links.php:78
+msgid "Custom Affiliate Slug"
+msgstr "Tùy chỉnh đường dẫn affiliate"
+
+#: ../admin/Uap_Main_Admin.class.php:1860 ../classes/Uap_Db.class.php:1445
+#: ../classes/Uap_Db.class.php:1446 ../public/views/account_page-header.php:62
+msgid "Payments Settings"
+msgstr "Cài đặt thanh toán"
+
+#: ../admin/Uap_Main_Admin.class.php:1861 ../classes/Uap_Db.class.php:1415
+#: ../classes/Uap_Db.class.php:1416 ../public/views/account_page-header.php:66
+msgid "Affiliate Links"
+msgstr "Đường dẫn affiliate"
+
+#: ../admin/Uap_Main_Admin.class.php:1862 ../classes/Uap_Db.class.php:1418
+#: ../classes/Uap_Db.class.php:1419 ../public/views/account_page-header.php:67
+msgid "Campaigns"
+msgstr "Chính dịch"
+
+#: ../admin/Uap_Main_Admin.class.php:1864 ../classes/Uap_Db.class.php:1448
+#: ../classes/Uap_Db.class.php:1449 ../classes/Uap_Db.class.php:6413
+msgid "Coupons"
+msgstr "Mã ưu đãi"
+
+#: ../admin/Uap_Main_Admin.class.php:1868 ../admin/views/wallet.php:3
+#: ../classes/Uap_Db.class.php:1457 ../classes/Uap_Db.class.php:1458
+#: ../classes/Uap_Db.class.php:6437 ../public/views/account_page-header.php:73
+msgid "Wallet"
+msgstr "Ví tiền"
+
+#: ../admin/Uap_Main_Admin.class.php:1870 ../classes/Uap_Db.class.php:1430
+#: ../classes/Uap_Db.class.php:1431 ../public/views/account_page-header.php:77
+msgid "Campaign Reports"
+msgstr "Báo cáo chiến dịch"
+
+#: ../admin/Uap_Main_Admin.class.php:1871 ../classes/Uap_Db.class.php:1439
+#: ../classes/Uap_Db.class.php:1440 ../public/views/account_page-header.php:78
+msgid "Referrals History"
+msgstr "Lịch sử giới thiệu"
+
+#: ../admin/Uap_Main_Admin.class.php:1872 ../classes/Uap_Db.class.php:1454
+#: ../classes/Uap_Db.class.php:1455 ../classes/Uap_Db.class.php:6381
+msgid "MLM"
+msgstr "Đa cấp"
+
+#: ../admin/Uap_Main_Admin.class.php:1875
+#: ../admin/Uap_Main_Admin.class.php:2819 ../classes/Uap_Db.class.php:1414
+#: ../classes/Uap_Db.class.php:4979 ../indeed-affiliate-pro.php:138
+#: ../public/views/account_page-header.php:83
+msgid "LogOut"
+msgstr "Thoát"
+
+#: ../admin/Uap_Main_Admin.class.php:1938
+msgid "View Visits for"
+msgstr "Xem truy cập"
+
+#: ../admin/Uap_Main_Admin.class.php:2277
+msgid ""
+"Be sure that you have filled all the reguired fields: Code, Affiliate, "
+"Amount Value."
+msgstr "Hãy chắc chắn bạn đã điền hết các trường: mã, afiliate..."
+
+#: ../admin/Uap_Main_Admin.class.php:2318
+msgid "The Unilevel Plan"
+msgstr "Dạng nhiều cấp kết hợp"
+
+#: ../admin/Uap_Main_Admin.class.php:2319
+msgid "The Force Matrix Plan"
+msgstr "Dạng ma trận"
+
+#: ../admin/Uap_Main_Admin.class.php:2320
+msgid "Binary Plan"
+msgstr "Dạng 2 nhánh"
+
+#: ../admin/Uap_Main_Admin.class.php:2414
+#: ../admin/Uap_Main_Admin.class.php:2434
+msgid "Shortcode Generator"
+msgstr "Tự tạo mã"
+
+#: ../admin/Uap_Main_Admin.class.php:2415
+#: ../admin/Uap_Main_Admin.class.php:2435
+#: ../admin/views/register-settings.php:44
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: ../admin/Uap_Main_Admin.class.php:2763
+msgid "Affiliates - Login Page"
+msgstr "Affiliates - trang đăng nhập"
+
+#: ../admin/Uap_Main_Admin.class.php:2766
+msgid "Affiliates - Register Page"
+msgstr "Affiliates - trang đăng ký"
+
+#: ../admin/Uap_Main_Admin.class.php:2769
+msgid "Affiliates - Lost Password"
+msgstr "Affliates - mất mật khẩu"
+
+#: ../admin/Uap_Main_Admin.class.php:2772
+msgid "Affiliates - LogOut Page"
+msgstr "Affiliates - thoát trang"
+
+#: ../admin/Uap_Main_Admin.class.php:2775
+msgid "Affiliates - User Page"
+msgstr "Affiliates  - Trang thành viên"
+
+#: ../admin/Uap_Main_Admin.class.php:2778
+msgid "Affiliates - TOS"
+msgstr "Trang điều khoản dịch vụ"
+
+#: ../admin/Uap_Main_Admin.class.php:2800
+msgid "Affiliates Pro - Default Pages"
+msgstr "Trang mặc định"
+
+#: ../admin/Uap_Main_Admin.class.php:2816 ../classes/Uap_Db.class.php:4976
+#: ../indeed-affiliate-pro.php:135
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: ../admin/Uap_Main_Admin.class.php:2817
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:197
+#: ../classes/Uap_Db.class.php:4977 ../indeed-affiliate-pro.php:136
+#: ../public/views/login_form.php:45 ../public/views/login_form.php:105
+#: ../public/views/login_form.php:158 ../public/views/login_form.php:199
+#: ../public/views/login_form.php:246 ../public/views/login_form.php:309
+#: ../public/views/login_form.php:363
+msgid "Register"
+msgstr "Đăng ký"
+
+#: ../admin/Uap_Main_Admin.class.php:2818 ../classes/Uap_Db.class.php:4978
+#: ../indeed-affiliate-pro.php:137
+msgid "Lost Password"
+msgstr "Quên mật khẩu"
+
+#: ../admin/Uap_Main_Admin.class.php:2820 ../classes/Uap_Db.class.php:4980
+msgid "User Account"
+msgstr "Tài khoản"
+
+#: ../admin/Uap_Main_Admin.class.php:2907
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:78
+#: ../public/Affiliate_Account_Page.class.php:917
+msgid "First Name"
+msgstr "Tên"
+
+#: ../admin/Uap_Main_Admin.class.php:2908
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:77
+#: ../public/Affiliate_Account_Page.class.php:918
+msgid "Last Name"
+msgstr "Họ"
+
+#: ../admin/Uap_Main_Admin.class.php:2909
+#: ../public/Affiliate_Account_Page.class.php:919
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: ../admin/Uap_Main_Admin.class.php:2911
+#: ../public/Affiliate_Account_Page.class.php:921
+msgid "Order Date"
+msgstr "Ngày đặt hàng"
+
+#: ../admin/Uap_Main_Admin.class.php:2912
+#: ../public/Affiliate_Account_Page.class.php:922
+msgid "Order Amount"
+msgstr "Giá trị đơn hàng"
+
+#: ../admin/Uap_Main_Admin.class.php:2913
+#: ../public/Affiliate_Account_Page.class.php:923
+msgid "Shipping Address"
+msgstr "Địa chỉ giao hàng"
+
+#: ../admin/Uap_Main_Admin.class.php:2914
+#: ../public/Affiliate_Account_Page.class.php:924
+msgid "Billing Address"
+msgstr "Địa chỉ thanh toán"
+
+#: ../admin/Uap_Main_Admin.class.php:2915
+#: ../public/Affiliate_Account_Page.class.php:925
+msgid "Cart Items"
+msgstr "Sản phẩm trong giỏ hàng"
+
+#: ../admin/utilities.php:21
+msgid "Current Rank"
+msgstr "Thứ hạng hiện tại"
+
+#: ../admin/utilities.php:39
+msgid "Field "
+msgstr "Trường"
+
+#: ../admin/utilities.php:56
+msgid "Bank Transfer Details: "
+msgstr "Thông tin chuyển khoản ngân hàng"
+
+#: ../admin/utilities.php:58 ../admin/utilities.php:65
+#: ../admin/utilities.php:79
+msgid "Incomplete Payment Settings"
+msgstr "Cài đặt thanh toán chưa hoàn tất"
+
+#: ../admin/utilities.php:63
+msgid "PayPal E-mail Address: "
+msgstr "Tài khoản paypal"
+
+#: ../admin/utilities.php:73
+msgid "Name on Card: "
+msgstr "Tên trên thẻ"
+
+#: ../admin/utilities.php:74
+msgid "Card Number: "
+msgstr "Số thẻ"
+
+#: ../admin/utilities.php:76
+msgid "Expiration: "
+msgstr "Hết hạn"
+
+#: ../admin/views/access.php:3
+msgid "Roles allowed to enter into WordPress Admin Dashboard:"
+msgstr "Vai trò được phép đăng nhập vào quản trị admin"
+
+#: ../admin/views/access.php:7
+msgid "Administrator"
+msgstr "Quản trị viên"
+
+#: ../admin/views/access.php:47 ../admin/views/allow_own_referrence.php:20
+#: ../admin/views/banners-add_edit.php:44 ../admin/views/bonus_on_rank.php:55
+#: ../admin/views/bp_account_page.php:60
+#: ../admin/views/checkout_select_referral.php:124
+#: ../admin/views/coupons-add_edit.php:77 ../admin/views/coupons-list.php:19
+#: ../admin/views/custom_affiliate_slug.php:47
+#: ../admin/views/custom_affiliate_slug.php:72
+#: ../admin/views/edit_affiliate_referral_relation.php:22
+#: ../admin/views/email_verification.php:107
+#: ../admin/views/friendly_links.php:22
+#: ../admin/views/landing_commissions-add_edit.php:129
+#: ../admin/views/lifetime_commissions.php:54
+#: ../admin/views/login-custom_messages.php:39 ../admin/views/login.php:28
+#: ../admin/views/login.php:55 ../admin/views/login.php:64
+#: ../admin/views/mlm.php:102 ../admin/views/notification_settings.php:12
+#: ../admin/views/notifications-add_edit.php:108
+#: ../admin/views/offers-add_edit.php:156 ../admin/views/opt_in.php:44
+#: ../admin/views/opt_in.php:54 ../admin/views/opt_in.php:113
+#: ../admin/views/opt_in.php:160 ../admin/views/opt_in.php:207
+#: ../admin/views/opt_in.php:254 ../admin/views/opt_in.php:326
+#: ../admin/views/opt_in.php:384 ../admin/views/opt_in.php:422
+#: ../admin/views/opt_in.php:460 ../admin/views/opt_in.php:497
+#: ../admin/views/paypal.php:52 ../admin/views/periodically_reports.php:91
+#: ../admin/views/qr_code.php:44 ../admin/views/ranks-add_edit.php:200
+#: ../admin/views/ranks-add_edit.php:218 ../admin/views/ranks-add_edit.php:239
+#: ../admin/views/ranks-add_edit.php:273 ../admin/views/ranks-add_edit.php:305
+#: ../admin/views/ranks-add_edit.php:347
+#: ../admin/views/reccuring_referrals.php:52
+#: ../admin/views/referral_notifications.php:70
+#: ../admin/views/referrals-add_edit.php:99
+#: ../admin/views/register-custom_fields.php:10
+#: ../admin/views/register-custom_fields.php:172
+#: ../admin/views/register-custom_fields_add_edit.php:133
+#: ../admin/views/register-custom_messages.php:82
+#: ../admin/views/register-settings.php:37
+#: ../admin/views/register-settings.php:142
+#: ../admin/views/register-settings.php:154
+#: ../admin/views/register-settings.php:168
+#: ../admin/views/rewrite_referrals.php:20
+#: ../admin/views/settings-admin_workflow.php:85
+#: ../admin/views/settings-captcha.php:13
+#: ../admin/views/settings-custom_currencies.php:15
+#: ../admin/views/settings-default_pages.php:113
+#: ../admin/views/settings-general.php:163
+#: ../admin/views/settings-public_workflow.php:55
+#: ../admin/views/settings-redirects.php:64
+#: ../admin/views/settings-redirects.php:164
+#: ../admin/views/settings-uploads.php:28
+#: ../admin/views/sign_up_referrals.php:69 ../admin/views/social_share.php:45
+#: ../admin/views/source_details.php:20 ../admin/views/source_details.php:40
+#: ../admin/views/source_details.php:61 ../admin/views/source_details.php:82
+#: ../admin/views/source_details.php:110 ../admin/views/stripe.php:60
+#: ../admin/views/wallet.php:33 ../admin/views/woo_account_page.php:60
+#: ../public/views/account_page-campaigns.php:29
+#: ../public/views/account_page-change_password.php:23
+#: ../public/views/account_page-custom_affiliate_slug.php:16
+#: ../public/views/account_page-payment_settings.php:91
+#: ../public/views/account_page-referral_notifications.php:56
+msgid "Save"
+msgstr "Lưu"
+
+#: ../admin/views/account-page.php:3
+msgid "Accont Page"
+msgstr "Trang thành viên"
+
+#: ../admin/views/account-page.php:15
+msgid "Top Section:"
+msgstr "Phần trên cùng"
+
+#: ../admin/views/account-page.php:20 ../admin/views/account-page.php:155
+msgid "Select Template:"
+msgstr "Lựa chọn template"
+
+#: ../admin/views/account-page.php:38
+msgid "Show Avatar Image:"
+msgstr "Hiển thị ảnh avatar"
+
+#: ../admin/views/account-page.php:47
+msgid "Show Earning:"
+msgstr "Hiển thị thu nhập"
+
+#: ../admin/views/account-page.php:56
+msgid "Show Referrals:"
+msgstr "Hiển thị người giới thiệu"
+
+#: ../admin/views/account-page.php:65
+msgid "Show Achievement:"
+msgstr "Hiện thị thành tích"
+
+#: ../admin/views/account-page.php:74
+msgid "Show Rank:"
+msgstr "Hiển thị thứ hạng"
+
+#: ../admin/views/account-page.php:79
+msgid "Welcome Message:"
+msgstr "Lời chào mừng"
+
+#: ../admin/views/account-page.php:124
+msgid "Background/Banner Image:"
+msgstr "Ảnh nền/ Banner"
+
+#: ../admin/views/account-page.php:125
+msgid "The Cover or Background Image, based on what Theme have you chosen"
+msgstr "Ảnh nền hoặc ảnh đại diện dựa trên theme bạn đã lựa chọn"
+
+#: ../admin/views/account-page.php:137
+msgid "Remove Background Image"
+msgstr "Xóa bỏ ảnh nền"
+
+#: ../admin/views/account-page.php:144 ../admin/views/account-page.php:236
+#: ../admin/views/account-page.php:287 ../admin/views/account-page.php:296
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:200
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: ../admin/views/account-page.php:151
+msgid "Content Section:"
+msgstr "Phần nội dung"
+
+#: ../admin/views/account-page.php:184
+msgid "Activate the Tab:"
+msgstr "Kích hoạt tab"
+
+#: ../admin/views/account-page.php:193 ../admin/views/bp_account_page.php:22
+#: ../admin/views/woo_account_page.php:22
+msgid "Menu Label"
+msgstr "Nhãn danh mục"
+
+#: ../admin/views/account-page.php:199
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: ../admin/views/account-page.php:242
+msgid "Footer Section:"
+msgstr "Phần cuối"
+
+#: ../admin/views/account-page.php:245
+msgid "Footer Content:"
+msgstr "Nội dung phần chân"
+
+#: ../admin/views/account-page.php:291
+msgid "Additional Settings:"
+msgstr "Cài đặt bổ sung"
+
+#: ../admin/views/account-page.php:293 ../admin/views/register-settings.php:160
+msgid "Custom CSS:"
+msgstr "Tùy chỉnh CSS"
+
+#: ../admin/views/achievements.php:5
+msgid "Affiliate Username: "
+msgstr "Tài khoản affiliates"
+
+#: ../admin/views/achievements.php:6 ../admin/views/affiliates-list.php:57
+#: ../admin/views/lifetime_commissions.php:68 ../admin/views/mlm.php:134
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: ../admin/views/achievements.php:12
+msgid "Last 50 Achievements"
+msgstr "50 thành tích gần nhất"
+
+#: ../admin/views/achievements.php:20
+#: ../public/views/account_page-generate_links.php:65
+#: ../public/views/account_page-reports.php:81
+msgid "On"
+msgstr "Bật"
+
+#: ../admin/views/achievements.php:20
+msgid "has moved from "
+msgstr "đã chuyển từ"
+
+#: ../admin/views/achievements.php:20 ../admin/views/offers-list.php:41
+#: ../public/views/account_page-reports.php:81
+msgid "to"
+msgstr "tới"
+
+#: ../admin/views/affiliate-payment-settings.php:3
+msgid "Affilaite Payment Settings"
+msgstr "Cài đặt thanh toán affiliates"
+
+#: ../admin/views/affiliate-payment-settings.php:8
+msgid "Payment Type:"
+msgstr "Kiểu thanh toán"
+
+#: ../admin/views/affiliate-payment-settings.php:12
+msgid "Name on Card:"
+msgstr "Tên trên thẻ"
+
+#: ../admin/views/affiliate-payment-settings.php:13
+msgid "Card Number:"
+msgstr "Số thẻ"
+
+#: ../admin/views/affiliate-payment-settings.php:15
+msgid "Expiration:"
+msgstr "Hết hạn"
+
+#: ../admin/views/affiliate-payment-settings.php:16
+msgid "Type:"
+msgstr "Kiểu"
+
+#: ../admin/views/affiliate-payment-settings.php:17
+msgid "Tax ID:"
+msgstr "Số thuế"
+
+#: ../admin/views/affiliate-payment-settings.php:22
+msgid "Bank Transfer Details:"
+msgstr "Thông tin chuyển khoản ngân hàng"
+
+#: ../admin/views/affiliate-payment-settings.php:27
+msgid "PayPal E-mail Address:"
+msgstr "Tài khoản paypal"
+
+#: ../admin/views/affiliates-add_edit.php:3
+msgid "Add/Edit Affiliate"
+msgstr "Thêm hoặc sửa Affiliate"
+
+#: ../admin/views/affiliates-list.php:2
+msgid "Listing Affiliates"
+msgstr "Danh sách affiliates"
+
+#: ../admin/views/affiliates-list.php:3
+msgid "Add new Affiliate"
+msgstr "Thêm một affiliates"
+
+#: ../admin/views/affiliates-list.php:8
+msgid "Add Filters"
+msgstr "Thêm bộ lọc"
+
+#: ../admin/views/affiliates-list.php:21
+msgid "Search by Name or Username"
+msgstr "Tìm theo tên hoặc tài khoản"
+
+#: ../admin/views/affiliates-list.php:44 ../admin/views/affiliates-list.php:94
+#: ../admin/views/affiliates-list.php:113
+#: ../admin/views/banners-add_edit.php:10 ../admin/views/banners-list.php:14
+#: ../admin/views/banners-list.php:23 ../admin/views/offers-add_edit.php:26
+#: ../admin/views/payment-form.php:69 ../admin/views/payment-form.php:80
+#: ../admin/views/payment-form.php:149 ../admin/views/payment-form.php:160
+#: ../public/views/account_page-campaign_reports.php:15
+#: ../public/views/account_page-campaign_reports.php:23
+msgid "Name"
+msgstr "Tên"
+
+#: ../admin/views/affiliates-list.php:45
+#: ../admin/views/checkout_select_referral.php:50
+#: ../admin/views/custom_affiliate_slug.php:83
+#: ../admin/views/custom_affiliate_slug.php:90
+#: ../admin/views/offers-add_edit.php:107 ../admin/views/opt_in.php:266
+#: ../admin/views/opt_in.php:338 ../admin/views/payment-form.php:68
+#: ../admin/views/payment-form.php:79 ../admin/views/payment-form.php:148
+#: ../admin/views/payment-form.php:159 ../admin/views/transactions.php:28
+#: ../admin/views/transactions.php:40
+#: ../public/views/account_page-generate_links.php:72
+#: ../public/views/login_form.php:23 ../public/views/login_form.php:74
+#: ../public/views/login_form.php:127 ../public/views/login_form.php:176
+#: ../public/views/login_form.php:230 ../public/views/login_form.php:286
+#: ../public/views/login_form.php:341
+msgid "Username"
+msgstr "Tài khoản"
+
+#: ../admin/views/affiliates-list.php:48
+msgid "Registered Time"
+msgstr "Thời gian đăng ký"
+
+#: ../admin/views/affiliates-list.php:51
+msgid "ASC"
+msgstr "Tăng dần"
+
+#: ../admin/views/affiliates-list.php:52
+msgid "DESC"
+msgstr "Giảm dần"
+
+#: ../admin/views/affiliates-list.php:65
+msgid "Number of Users to Display:"
+msgstr "Số thành viên hiển thị"
+
+#: ../admin/views/affiliates-list.php:84
+msgid "Update Rank"
+msgstr "Cập nhật thứ hạng"
+
+#: ../admin/views/affiliates-list.php:93 ../admin/views/affiliates-list.php:112
+#: ../admin/views/top_affiliates.php:76
+msgid "UserName"
+msgstr "Tài khoản"
+
+#: ../admin/views/affiliates-list.php:96 ../admin/views/affiliates-list.php:115
+#: ../admin/views/payment-form.php:72 ../admin/views/payment-form.php:83
+#: ../admin/views/payment-form.php:152 ../admin/views/payment-form.php:163
+msgid "Rank"
+msgstr "Thứ hạng"
+
+#: ../admin/views/affiliates-list.php:99 ../admin/views/affiliates-list.php:118
+#: ../admin/views/payments.php:87 ../admin/views/payments.php:97
+#: ../admin/views/reports.php:30
+msgid "Paid Amount"
+msgstr "Giá trị đã thanh toán"
+
+#: ../admin/views/affiliates-list.php:100
+#: ../admin/views/affiliates-list.php:119 ../admin/views/reports.php:40
+msgid "UnPaid Amount"
+msgstr "Giá trị chưa thanh toán"
+
+#: ../admin/views/affiliates-list.php:101
+#: ../admin/views/affiliates-list.php:120
+msgid "Wp Role"
+msgstr "Vai trò trong wordpress"
+
+#: ../admin/views/affiliates-list.php:103
+#: ../admin/views/affiliates-list.php:122
+msgid "E-mail Status"
+msgstr "Trạng thái email"
+
+#: ../admin/views/affiliates-list.php:105
+#: ../admin/views/affiliates-list.php:124
+msgid "Affiliate Since"
+msgstr "Affiliates kể từ"
+
+#: ../admin/views/affiliates-list.php:106
+#: ../admin/views/affiliates-list.php:125
+msgid "Details"
+msgstr "Chi tiết"
+
+#: ../admin/views/affiliates-list.php:151 ../admin/views/payment-form.php:37
+#: ../admin/views/payment-form.php:105 ../admin/views/payment-form.php:187
+#: ../admin/views/payments.php:124
+#: ../admin/views/payments_list_all_unpaid.php:60
+#: ../classes/Uap_Db.class.php:5194
+msgid "Bank Transfer"
+msgstr "Chuyển khoản ngân hàng"
+
+#: ../admin/views/affiliates-list.php:171 ../admin/views/coupons-list.php:53
+#: ../admin/views/landing_commissions-list.php:29
+#: ../admin/views/lifetime_commissions.php:82
+#: ../admin/views/notifications-list.php:46 ../admin/views/offers-list.php:27
+#: ../admin/views/ranks-list.php:32 ../admin/views/referrals-list.php:95
+msgid "Edit"
+msgstr "Sửa"
+
+#: ../admin/views/affiliates-list.php:173
+msgid "Approve Affiliate"
+msgstr "Chấp nhận affiliates"
+
+#: ../admin/views/affiliates-list.php:177
+msgid "Approve E-mail"
+msgstr "Chấp nhận email"
+
+#: ../admin/views/affiliates-list.php:191
+#: ../admin/views/affiliates-list.php:197
+#: ../admin/views/affiliates-list.php:203 ../admin/views/payments.php:150
+#: ../admin/views/payments.php:158 ../admin/views/payments.php:176
+#: ../public/views/account_page-referrals.php:57
+msgid "View"
+msgstr "Xem"
+
+#: ../admin/views/affiliates-list.php:209
+msgid "Proceed"
+msgstr "Xử lý"
+
+#: ../admin/views/affiliates-list.php:209 ../admin/views/payments.php:169
+msgid "Pay All"
+msgstr "Thanh toán hết"
+
+#: ../admin/views/affiliates-list.php:221
+msgid "Unapproved"
+msgstr "Không chấp nhận"
+
+#: ../admin/views/affiliates-list.php:234 ../admin/views/transactions.php:2
+msgid "Transactions"
+msgstr "Các giao dịch"
+
+#: ../admin/views/affiliates-list.php:236 ../admin/views/mlm.php:20
+msgid "MLM Matrix"
+msgstr "MLM dạng ma trận"
+
+#: ../admin/views/affiliates-list.php:254
+msgid "No Affiliates Stored!"
+msgstr "Không lưu trữ affiliates"
+
+#: ../admin/views/allow_own_referrence.php:3
+msgid "Allow Own Referrence"
+msgstr "Cho phép affiliates được tự nhận hoa hoàng"
+
+#: ../admin/views/allow_own_referrence.php:7
+msgid "Activate/Hold Allow Own Referrence"
+msgstr ""
+"Kích hoạt hoặc vô hiệu hóa cho phép affiliates tự giới thiệu chính mình"
+
+#: ../admin/views/allow_own_referrence.php:8
+msgid ""
+"Affiliates will be able to earn a commission on their own purchases via "
+"their own referral links "
+msgstr ""
+"Affiliates có thể tự tạo thu nhập khi mua hàng bằng link giới thiệu của mình."
+
+#: ../admin/views/banners-add_edit.php:4
+msgid "Manage Banners"
+msgstr "Quản lý banners"
+
+#: ../admin/views/banners-add_edit.php:20
+#: ../admin/views/referral_list_details.php:27
+#: ../admin/views/referrals-add_edit.php:32
+#: ../public/views/account_page-banners.php:20
+msgid "Description:"
+msgstr "Mô tả"
+
+#: ../admin/views/banners-add_edit.php:21 ../admin/views/ranks-add_edit.php:49
+msgid "Some details..."
+msgstr "Vài thông tin chi tiết"
+
+#: ../admin/views/banners-add_edit.php:28
+msgid "Banner Options:"
+msgstr "Tùy chọn banners"
+
+#: ../admin/views/banners-add_edit.php:29
+msgid ""
+"Predefined URL And Image for your Custom Banner available for Affiliates"
+msgstr "Tùy chỉnh hình ảnh, banner và được link url có sẵn cho affiliates"
+
+#: ../admin/views/banners-add_edit.php:34
+msgid "Banner Image:"
+msgstr "ảnh banners"
+
+#: ../admin/views/banners-add_edit.php:37
+msgid "Remove Banner Image"
+msgstr "Xóa ảnh banners"
+
+#: ../admin/views/banners-list.php:2
+msgid "Listing Banners"
+msgstr "Danh sách banners"
+
+#: ../admin/views/banners-list.php:3
+msgid "Add New Banner"
+msgstr "Thêm 1 banner"
+
+#: ../admin/views/banners-list.php:4
+msgid "...create Banners for your Affiliates"
+msgstr "...tạo banners cho affiliates"
+
+#: ../admin/views/banners-list.php:15 ../admin/views/banners-list.php:24
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: ../admin/views/banners-list.php:17 ../admin/views/banners-list.php:26
+msgid "Create Time"
+msgstr "Thời gian tạo"
+
+#: ../admin/views/banners-list.php:54
+msgid "No Banners Available!"
+msgstr "Không có sẵn ảnh banners"
+
+#: ../admin/views/bonus_on_rank.php:3 ../classes/Uap_Db.class.php:6397
+msgid "Bonus On Ranks"
+msgstr "Thưởng theo thứ hạng"
+
+#: ../admin/views/bonus_on_rank.php:7
+msgid "Activate/Hold Bonus On Ranks"
+msgstr "Kích hoạt hoặc vô hiệu hóa thưởng theo thứ hạng"
+
+#: ../admin/views/bonus_on_rank.php:8 ../admin/views/ranks-add_edit.php:211
+msgid ""
+"Affiliate will receive Bonus with a flat Amount each time when will achieve "
+"a specific Rank."
+msgstr ""
+"Affiliates sẽ được thưởng theo giá trị mối khi đạt được một thứ hạng mới"
+
+#: ../admin/views/bonus_on_rank.php:23 ../admin/views/sign_up_referrals.php:49
+msgid "Amount For Each Rank"
+msgstr "Giá trị cho mỗi thứ hạng"
+
+#: ../admin/views/bonus_on_rank.php:24
+msgid ""
+"Set a special Bonus Amount for each Rank. This option will become available "
+"into Rank Settings page also."
+msgstr ""
+"Thiết lập giá trị hoa hồng cho mỗi thứ hạng. Lựa chọn này sẽ có sẵn trong "
+"trang cài đặt thứ hạng."
+
+#: ../admin/views/bonus_on_rank.php:41 ../admin/views/sign_up_referrals.php:32
+msgid "Default Referral Status"
+msgstr "Trạng thái người giới thiệu mặc định"
+
+#: ../admin/views/bp_account_page.php:31 ../admin/views/woo_account_page.php:31
+msgid "Menu Position"
+msgstr "Ví trí danh mục"
+
+#: ../admin/views/bp_account_page.php:39 ../admin/views/woo_account_page.php:39
+msgid "Non-Affiliate Users"
+msgstr "Không phải thành viên Affiliate"
+
+#: ../admin/views/bp_account_page.php:40 ../admin/views/woo_account_page.php:40
+msgid ""
+"Even the non-affiliate users will see the new option but instead of "
+"Affiliate account page a custom Content will show up."
+msgstr ""
+"Cho dù không phải thành viên affiliate sẽ xem được lựa chọn mới thanh vì "
+"trang tài khoản affiliate với nội dung tùy chỉnh sẽ hiện lên."
+
+#: ../admin/views/bp_account_page.php:52 ../admin/views/woo_account_page.php:52
+msgid "Custom Content for Non-Affiliate Users:"
+msgstr "Tùy chỉnh nội dụng cho thành viên không phải affiliate:"
+
+#: ../admin/views/checkout_select_referral.php:8
+msgid ""
+"Once is activated the Customer will have the option to select an Affiliate "
+"for commission during the Checkout process."
+msgstr ""
+"Một khi được kích hoạt thì khách hàng sẽ có lựa chọn được hoa hồng của thứ "
+"hạng free affiliate khi thực hiện thanh toán."
+
+#: ../admin/views/checkout_select_referral.php:23
+msgid ""
+"The label name for the additional field available inside the CheckOut form."
+msgstr "Tên tường này cho trường bổ sung có sẵn bên trong form thanh toán."
+
+#: ../admin/views/checkout_select_referral.php:25
+#: ../admin/views/ranks-add_edit.php:38 ../admin/views/ranks-list.php:12
+#: ../admin/views/ranks-list.php:20
+#: ../admin/views/register-custom_fields.php:18
+#: ../admin/views/register-custom_fields.php:32
+msgid "Label"
+msgstr "Nhãn"
+
+#: ../admin/views/checkout_select_referral.php:34
+msgid "Field Settings"
+msgstr "Cài đặt trường"
+
+#: ../admin/views/checkout_select_referral.php:36
+msgid "Selection Type"
+msgstr "Kiểu lựa chọn"
+
+#: ../admin/views/checkout_select_referral.php:38
+msgid "Client select Affiliate from list"
+msgstr "Lựa chọn affiliate từ danh sách"
+
+#: ../admin/views/checkout_select_referral.php:38
+msgid "Client write the Username of Affiliate"
+msgstr "Điền tên tài khoản của affiliate"
+
+#: ../admin/views/checkout_select_referral.php:47
+msgid "Affiliate Name Display"
+msgstr "Hiển thị tên của Affiliate"
+
+#: ../admin/views/checkout_select_referral.php:48
+msgid "How Affiliates will be displayed"
+msgstr "Hiển thị affiliate theo cách nào"
+
+#: ../admin/views/checkout_select_referral.php:50
+msgid "Display Name"
+msgstr "Hiển thị tên"
+
+#: ../admin/views/checkout_select_referral.php:50
+msgid "User Nicename"
+msgstr "Nike name thành viên"
+
+#: ../admin/views/checkout_select_referral.php:63
+msgid "Affiliate List"
+msgstr "Danh sách affiliates"
+
+#: ../admin/views/checkout_select_referral.php:64
+msgid ""
+"Choose specific Affiliates to show up into Checkout selection if you do not "
+"want to display all of them."
+msgstr ""
+"Lựa chọn một affiliate để thanh toán nếu bạn không muốn hiển thị tất cả."
+
+#: ../admin/views/checkout_select_referral.php:74
+#: ../admin/views/offers-add_edit.php:118
+msgid "Removing tag"
+msgstr "Xóa bỏ tag"
+
+#: ../admin/views/checkout_select_referral.php:89 ../admin/views/qr_code.php:21
+msgid "Additional Settings"
+msgstr "Cài đặt bổ sung"
+
+#: ../admin/views/checkout_select_referral.php:91
+msgid "Rewrite current Affiliate"
+msgstr "Ghi đè affiliate hiện tại"
+
+#: ../admin/views/checkout_select_referral.php:92
+msgid ""
+"If there is already an Affiliate assigned for current visitor/customer this "
+"one can be igonred. If not, the Checkout Option will not show up."
+msgstr ""
+"Nếu có một affiliate gán cho khách truy cập hiện tại, khách hàng này có thể "
+"bị từ chối. Nếu không lựa chọn thanh toán sẽ không hiển thị lên."
+
+#: ../admin/views/checkout_select_referral.php:103
+msgid "Require select Affiliate"
+msgstr "Bắt buộc lựa chọn affilite"
+
+#: ../admin/views/checkout_select_referral.php:104
+msgid ""
+"Force the customer to select an Affiliate to continue the Checkout process. "
+"The additional field will be set as required."
+msgstr ""
+"Bắt buộc khách hàng lựa chọn là một affiliate để tiến thành thanh toán. "
+"Trường bổ sung sẽ cài đặt là bắt buộc."
+
+#: ../admin/views/coupons-add_edit.php:5
+msgid "Add/Edit Coupons"
+msgstr "Thêm hoặc sửa mã ưu đãi"
+
+#: ../admin/views/coupons-add_edit.php:11 ../admin/views/offers-add_edit.php:74
+#: ../public/views/account_page-coupons.php:14
+#: ../public/views/account_page-coupons.php:21
+msgid "Source"
+msgstr "Nguồn"
+
+#: ../admin/views/coupons-add_edit.php:23 ../public/views/wallet.php:41
+msgid "Coupon Code"
+msgstr "Mã ưu đãi"
+
+#: ../admin/views/coupons-add_edit.php:28 ../admin/views/coupons-list.php:36
+#: ../admin/views/coupons-list.php:44
+#: ../admin/views/custom_affiliate_slug.php:61
+#: ../admin/views/payments_list_all_paid.php:19
+#: ../admin/views/payments_list_all_paid.php:31
+#: ../admin/views/payments_list_all_unpaid.php:20
+#: ../admin/views/payments_list_all_unpaid.php:29
+#: ../admin/views/referrals-list.php:60 ../admin/views/referrals-list.php:73
+#: ../classes/Uap_Db.class.php:1596 ../classes/Uap_Db.class.php:1605
+#: ../utilities.php:1003
+msgid "Affiliate"
+msgstr "Affiliates"
+
+#: ../admin/views/coupons-add_edit.php:41
+msgid "Activate/Hold Coupon"
+msgstr "Kích hoạt/giữ mã ưu đãi"
+
+#: ../admin/views/coupons-add_edit.php:42
+msgid "You can activate or deactivate a Coupon anytime without delete it."
+msgstr ""
+"Bạn có thể kích hoạt hoặc vô hiệu hóa mã ưu đãi bất cứ khi nào mà không phải "
+"xóa nó."
+
+#: ../admin/views/coupons-add_edit.php:55
+msgid "Coupon Amount"
+msgstr "Giá trị mã ưu đãi"
+
+#: ../admin/views/coupons-add_edit.php:56
+msgid ""
+"A special Amount for this specific Coupon needs to be set which will take in "
+"place the standard Amount Rank"
+msgstr ""
+"Giá trị mặc định cho mã ưu đãi cụ thể  cần phải thiết lập. Nó sẽ hiển thị ở "
+"giá trị thứ hạng tiêu chuẩn."
+
+#: ../admin/views/coupons-add_edit.php:68
+#: ../admin/views/landing_commissions-add_edit.php:41 ../admin/views/mlm.php:76
+#: ../admin/views/offers-add_edit.php:49 ../admin/views/ranks-add_edit.php:88
+#: ../admin/views/ranks-add_edit.php:129 ../admin/views/ranks-add_edit.php:266
+#: ../admin/views/ranks-add_edit.php:299 ../admin/views/ranks-add_edit.php:323
+msgid "Value"
+msgstr "Giá trị"
+
+#: ../admin/views/coupons-list.php:3
+msgid "Affiliates Coupons"
+msgstr "Mã ưu đãi affiliates"
+
+#: ../admin/views/coupons-list.php:7
+msgid "Activate/Hold Coupons option for your Affiliates"
+msgstr "Kích hoạt / giữ  tùy chọn mã ưu đãi cho affiliates"
+
+#: ../admin/views/coupons-list.php:8 ../admin/views/lifetime_commissions.php:8
+#: ../admin/views/mlm.php:8 ../admin/views/reccuring_referrals.php:8
+#: ../admin/views/sign_up_referrals.php:8
+msgid ""
+"You can activate this option to take in place into your Affiliate system."
+msgstr ""
+"Bạn có thể kích hoạt lựa chọn này để đưa vào trong hệ thống affiliates của "
+"bạn."
+
+#: ../admin/views/coupons-list.php:26
+msgid "Listing Coupons"
+msgstr "Danh sách mã ưu đãi"
+
+#: ../admin/views/coupons-list.php:27
+msgid "Add new Coupon"
+msgstr "Thêm một mã ưu đãi"
+
+#: ../admin/views/coupons-list.php:34 ../admin/views/coupons-list.php:42
+msgid "Coupon"
+msgstr "Mã ưu đãi"
+
+#: ../admin/views/coupons-list.php:35 ../admin/views/coupons-list.php:43
+#: ../public/views/account_page-payment_settings.php:71
+#: ../public/views/wallet.php:42
+msgid "Type"
+msgstr "Kiểu"
+
+#: ../admin/views/coupons-list.php:37 ../admin/views/coupons-list.php:45
+#: ../admin/views/ranks-list.php:15 ../admin/views/ranks-list.php:23
+#: ../admin/views/referrals-list.php:67 ../admin/views/referrals-list.php:80
+#: ../admin/views/transactions.php:34 ../admin/views/transactions.php:46
+#: ../admin/views/visits.php:50 ../admin/views/visits.php:63
+#: ../public/views/account_page-payments.php:26
+#: ../public/views/account_page-payments.php:35
+#: ../public/views/account_page-referrals.php:36
+#: ../public/views/account_page-referrals_history.php:23
+msgid "Status"
+msgstr "Trạng thái"
+
+#: ../admin/views/coupons-list.php:58
+msgid "Enabled"
+msgstr "kích hoạt"
+
+#: ../admin/views/coupons-list.php:59
+msgid "Disabled"
+msgstr "Vô hiệu hóa"
+
+#: ../admin/views/custom_affiliate_slug.php:22
+msgid ""
+"Establish conditional requirements when Affiliate want to set his personal "
+"Custom Slug. Be sure that there are no chances that another Affiliate that "
+"will register later it will not set a username similar with a saved Custom "
+"Slug."
+msgstr ""
+"Thiết lập những yêu cầu bắt buộc khi affiliates muốn cài đặt tùy chỉnh slug "
+"cá nhân. Hãy chắc chẵn không có cơ hội để người dùng affiliates sẽ đăng ký "
+"tương tự sau đó, nó sẽ không được thiết lập một tài khoản tương tự với slug "
+"tùy chỉnh này."
+
+#: ../admin/views/custom_affiliate_slug.php:28
+msgid "Minimum number of characters"
+msgstr "Số lượng kỹ tự tối thiểu"
+
+#: ../admin/views/custom_affiliate_slug.php:32
+msgid "Maximum number of characters"
+msgstr "Số lượng ký tự tối đa"
+
+#: ../admin/views/custom_affiliate_slug.php:36
+msgid "Slug characters rule"
+msgstr "Quy định ký tự slug"
+
+#: ../admin/views/custom_affiliate_slug.php:38
+#: ../admin/views/register-settings.php:110
+msgid "Standard"
+msgstr "Tiêu chuẩn"
+
+#: ../admin/views/custom_affiliate_slug.php:38
+#: ../admin/views/register-settings.php:111
+msgid "Characters and digits"
+msgstr "ký tự và chữ số"
+
+#: ../admin/views/custom_affiliate_slug.php:38
+#: ../admin/views/register-settings.php:112
+msgid "Characters, digits, minimum one uppercase letter"
+msgstr "Ký tự, số, tối thiểu một chữ hoa"
+
+#: ../admin/views/custom_affiliate_slug.php:55
+msgid "Add/Edit Slug"
+msgstr "Thêm / sửa slug"
+
+#: ../admin/views/custom_affiliate_slug.php:59
+msgid ""
+"You can add or Edit a custom Slug for a specific Affiliate from your side."
+msgstr ""
+"Bạn có thể thêm hoặc sửa 1 slug tùy chỉnh cho một tài khoản affiliate cụ thể "
+"từ phía bạn."
+
+#: ../admin/views/custom_affiliate_slug.php:85
+#: ../admin/views/custom_affiliate_slug.php:92
+#: ../admin/views/notifications-list.php:15
+#: ../admin/views/notifications-list.php:23 ../admin/views/transactions.php:35
+#: ../admin/views/transactions.php:47
+msgid "Action"
+msgstr "Hành động"
+
+#: ../admin/views/dashboard.php:5
+msgid "Dashboard Overall"
+msgstr "Tổng quan quản trị"
+
+#: ../admin/views/dashboard.php:14 ../admin/views/payments.php:11
+#: ../admin/views/reports.php:50
+msgid "Total Affiliates"
+msgstr "Tổng cộng affiliates"
+
+#: ../admin/views/dashboard.php:24 ../admin/views/payments.php:21
+#: ../admin/views/reports.php:60
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:29
+#: ../public/views/account_page-overview.php:11
+msgid "Total Referrals"
+msgstr "Tổng cộng người giới thiệu"
+
+#: ../admin/views/dashboard.php:34 ../admin/views/payments.php:31
+msgid "Total UnPaid Referrals"
+msgstr "Tổng cộng người giới thiệu chưa thanh toán"
+
+#: ../admin/views/dashboard.php:44
+msgid "Top Rank"
+msgstr "Thứ hạng cao nhất"
+
+#: ../admin/views/dashboard.php:56
+msgid "Total Affiliates per Rank"
+msgstr "Tổng affiliates trong 1 thứ hạng"
+
+#: ../admin/views/dashboard.php:65
+msgid "Last 5 Referrals"
+msgstr "5 người giới thiệu cuối cùng"
+
+#: ../admin/views/dashboard.php:69
+msgid " for "
+msgstr "cho"
+
+#: ../admin/views/dashboard.php:69
+msgid " on "
+msgstr "trên"
+
+#: ../admin/views/dashboard.php:81
+msgid "Top"
+msgstr "top"
+
+#: ../admin/views/dashboard.php:87
+msgid "Refferals"
+msgstr "Người giới thiệu"
+
+#: ../admin/views/dashboard.php:87
+msgid "Total Amount"
+msgstr "Tổng giá trị"
+
+#: ../admin/views/edit_affiliate_referral_relation.php:3
+#: ../admin/views/lifetime_commissions.php:3 ../classes/Uap_Db.class.php:6330
+msgid "LifeTime Commissions"
+msgstr "Hoa hồng trọn đời"
+
+#: ../admin/views/edit_affiliate_referral_relation.php:6
+msgid "Referral Username:"
+msgstr "Tài khoản người giới thiệu"
+
+#: ../admin/views/edit_affiliate_referral_relation.php:10
+msgid "Affiliate Username:"
+msgstr "Tài khoản Affiliates"
+
+#: ../admin/views/edit_wp_user.php:3
+msgid "Become Affiliate"
+msgstr "Trở thành affiliates (Đại lý)"
+
+#: ../admin/views/edit_wp_user.php:6
+msgid "Already registered as Affiliate."
+msgstr "Đã đăng ký trở thành affiliates (Đại lý)"
+
+#: ../admin/views/edit_wp_user.php:8
+msgid "Remove from Affiliates list"
+msgstr "Xóa khỏi danh sách đại lý"
+
+#: ../admin/views/edit_wp_user.php:11
+msgid "Make This User Affiliate"
+msgstr "Chuyển thành viên này thành affiliates (Đại lý)"
+
+#: ../admin/views/email_verification.php:3 ../classes/Uap_Db.class.php:6493
+msgid "E-mail Verification"
+msgstr "Xác nhận email"
+
+#: ../admin/views/email_verification.php:7
+msgid "Activate/Hold Email Verification"
+msgstr "Kích hoạt/ giữ email xác nhận"
+
+#: ../admin/views/email_verification.php:8
+msgid ""
+"Requires to be verified the email address for new Affiliates before they "
+"will be able to Login. If the Email address is not confimed, the user "
+"account may be automatically deleted after a certain time"
+msgstr ""
+"Bắt buộc phải xác nhận email cho tài khoản affiliates mới trước khi họ cóa "
+"thể đăng nhập. Nếu địa chỉ email không được xác nhận, tài khoản đó tự động "
+"bị xóa sau khoảng thời gian nào đó."
+
+#: ../admin/views/email_verification.php:17
+msgid ""
+"Be sure that your Notifications for <strong>Double Email "
+"Verification</strong> are properly set."
+msgstr ""
+"Hãy chắc chắn thông báo của bạn cho việc <strong>xác nhận email </strong>là "
+"hoạt động ok."
+
+#: ../admin/views/email_verification.php:27
+msgid "Activation Link Expire Time:"
+msgstr "Thời gian link hết hạn:"
+
+#: ../admin/views/email_verification.php:49
+msgid "Success Redirect:"
+msgstr "Chuyển hướng thành công:"
+
+#: ../admin/views/email_verification.php:65
+msgid "Error Redirect:"
+msgstr "Chuyển hướng thất bạn:"
+
+#: ../admin/views/email_verification.php:81
+msgid "Delete User if is not verified:"
+msgstr "Xóa thành viên nếu không được xác nhận:"
+
+#: ../admin/views/friendly_links.php:3
+msgid "Friendly Links"
+msgstr "Đường dẫn thân thiện"
+
+#: ../admin/views/friendly_links.php:7
+msgid "Activate/Hold Friendly Affiliate Links"
+msgstr "Kích hoạt / giữ đường dẫn affiliate thân thiện"
+
+#: ../admin/views/friendly_links.php:8
+msgid ""
+"Affiliates will be able to use friendly links instead of the default one "
+"with a better looking structure when the link is shared and much easier to "
+"read. Ex: www.yourwebsite.com/ref/smith"
+msgstr ""
+"Affiliates có thể sử dụng đường dẫn thân thiện thay vì mặc định với cấu trúc "
+"đẹp hơn khi đường dẫn đó được chia sẻ nó trở nên dễ dàng để theo dõi. Ví dụ: "
+"thaiduongblog.com/ve-thai-duong"
+
+#: ../admin/views/friendly_links.php:19
+msgid "Refreshing the WP Permalinks it may be required. "
+msgstr "Làm tươi mới lại wp đường dẫn vĩnh viễn có thể bắt buộc."
+
+#: ../admin/views/global_errors.php:2
+msgid "licence section"
+msgstr "Phần bản quyền"
+
+#: ../admin/views/header.php:3
+msgid "Are You sure You wat to delete this Referral?"
+msgstr "Bạn có chắc muốn xóa người giới thiệu này?"
+
+#: ../admin/views/header.php:4
+msgid "Delete This "
+msgstr "Xóa ngay"
+
+#: ../admin/views/header.php:5
+msgid "Delete selected Affiliates"
+msgstr "Xóa affiliates đã chọn"
+
+#: ../admin/views/header.php:6
+msgid ""
+"An E-mail was sent to Your Admin address. Check Your inbox or Spam/Junk "
+"Folder!"
+msgstr ""
+"Một email đã được gửi tới địa chỉ email admin của bạn. Kiểm tra trong inbox "
+"hoặc thư mục spam."
+
+#: ../admin/views/help.php:6
+msgid "Activate Ultimate Affiliate Pro"
+msgstr "Kích hoạt Ultimate affiliate pro"
+
+#: ../admin/views/help.php:27
+msgid "You've activated the Ultimate Affiliate Pro plugin!"
+msgstr "Bạn đã kích hoạt Ultimate Affiliates Pro!"
+
+#: ../admin/views/help.php:55
+msgid ""
+"In order to contact Indeed support team you need to create a ticket "
+"providing all the necessary details via our support system:"
+msgstr "In"
+
+#: ../admin/views/landing_commissions-add_edit.php:69
+msgid "Source Name"
+msgstr "Nguồn tên"
+
+#: ../admin/views/landing_commissions-add_edit.php:80
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:45
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:47
+msgid "Referral Description"
+msgstr "Mô trả người giới thiệu"
+
+#: ../admin/views/landing_commissions-add_edit.php:89
+msgid "Cookie Expire Time"
+msgstr "Thời gian hết hạn"
+
+#: ../admin/views/landing_commissions-add_edit.php:90
+msgid "Set time interval"
+msgstr "Cài đặt giờ"
+
+#: ../admin/views/landing_commissions-add_edit.php:93
+msgid "Hours"
+msgstr "Giờ"
+
+#: ../admin/views/landing_commissions-add_edit.php:102
+msgid "Color"
+msgstr "Màu sắc"
+
+#: ../admin/views/landing_commissions-list.php:25
+msgid "Source Name:"
+msgstr "Tên nguồn:"
+
+#: ../admin/views/landing_commissions-list.php:52
+msgid "No Shortcode to show. Please, add your first Shortcode. "
+msgstr ""
+"Không có shortcode để hiển thị. vui lòng thêm shortcode đầu tiên của bạn."
+
+#: ../admin/views/lifetime_commissions.php:24
+msgid ""
+"Set a special LifeTime Amount for each Rank that will take in place the "
+"Default Amount Rank. This option will become available into Rank Settings "
+"page also."
+msgstr ""
+"Thiết lập một giá trị lâu dài cho mỗi thứ hạn và sẽ được thay thế giá trị "
+"thứ hạng mặc định. Lựa chọn này sẽ có sẵn trong trang cài đặt thứ hạng."
+
+#: ../admin/views/lifetime_commissions.php:27
+#: ../admin/views/reccuring_referrals.php:25
+msgid "Rank Name"
+msgstr "Tên thứ hạng"
+
+#: ../admin/views/lifetime_commissions.php:28
+#: ../admin/views/reccuring_referrals.php:26
+msgid "Default Amount Rank"
+msgstr "Thứ hạng mặc định"
+
+#: ../admin/views/lifetime_commissions.php:29
+msgid "LifeTime Amount"
+msgstr "Giá trị trọn đời (LifeTime)"
+
+#: ../admin/views/lifetime_commissions.php:62
+msgid "Search Lifetime User-Affiliates"
+msgstr "Tìm kiếm thành viên affiliates lâu dài"
+
+#: ../admin/views/lifetime_commissions.php:66
+#: ../admin/views/lifetime_commissions.php:74 ../admin/views/mlm.php:132
+#: ../admin/views/visits.php:44 ../admin/views/visits.php:57
+msgid "Affiliate Username"
+msgstr "Tài khoản affiliates"
+
+#: ../admin/views/lifetime_commissions.php:67
+#: ../admin/views/lifetime_commissions.php:75
+msgid "Referral Username"
+msgstr "Tài khoản người giới thiệu"
+
+#: ../admin/views/lifetime_commissions.php:76
+msgid "Actions"
+msgstr "Hành động"
+
+#: ../admin/views/login-custom_messages.php:3
+msgid "Messages:"
+msgstr "Tin nhắn"
+
+#: ../admin/views/login-custom_messages.php:6
+msgid "Login Messages"
+msgstr "Tin nhắn đăng nhập"
+
+#: ../admin/views/login-custom_messages.php:8
+#: ../admin/views/login-custom_messages.php:28
+msgid "Successfully Message:"
+msgstr "Tin nhắn thành công"
+
+#: ../admin/views/login-custom_messages.php:12
+msgid "Default message for pending users:"
+msgstr "Tin nhắn mặc định cho thành viên đang chờ:"
+
+#: ../admin/views/login-custom_messages.php:16
+#: ../admin/views/login-custom_messages.php:33
+#: ../admin/views/register-custom_fields_add_edit.php:61
+msgid "Error Message:"
+msgstr "Tin nhẵn lỗi"
+
+#: ../admin/views/login-custom_messages.php:20
+msgid "E-mail Pending:"
+msgstr "Email đang chờ"
+
+#: ../admin/views/login-custom_messages.php:26
+msgid "Reset Password Messages"
+msgstr "Tin nhắn đổi mật khẩu"
+
+#: ../admin/views/login.php:2 ../admin/views/popup-shortcodes.php:11
+#: ../admin/views/shortcodes.php:9 ../admin/views/showcases.php:13
+#: ../indeed-affiliate-pro.php:129
+msgid "Login Form"
+msgstr "Form đăng nhập"
+
+#: ../admin/views/login.php:12
+msgid "Showcase Display"
+msgstr "Hiển thị"
+
+#: ../admin/views/login.php:15
+msgid "Login Template:"
+msgstr "Đăng nhập mẫu:"
+
+#: ../admin/views/login.php:37
+msgid "Additional Display Options"
+msgstr "Lựa chọn hiển thị bổ sung"
+
+#: ../admin/views/login.php:42 ../public/views/login_form.php:33
+#: ../public/views/login_form.php:93 ../public/views/login_form.php:136
+#: ../public/views/login_form.php:188 ../public/views/login_form.php:264
+#: ../public/views/login_form.php:298 ../public/views/login_form.php:351
+msgid "Remember Me"
+msgstr "Ghi nhớ tôi"
+
+#: ../admin/views/login.php:47
+msgid "Register Link"
+msgstr "Link đăng ký"
+
+#: ../admin/views/login.php:51
+msgid "Lost your password"
+msgstr "Quên mật khẩu"
+
+#: ../admin/views/login.php:60 ../admin/views/top_affiliates_settings.php:59
+msgid "Custom CSS"
+msgstr "Tùy chỉnh Css"
+
+#: ../admin/views/mlm-view_affiliate_children.php:2
+msgid "Display MLM Matrix"
+msgstr "Hiển thị ma trận đa cấp"
+
+#: ../admin/views/mlm-view_affiliate_children.php:40
+#: ../public/views/account_page-mlm.php:48
+#: ../public/views/account_page-mlm.php:55
+msgid "Subaffiliate"
+msgstr "Affiliate cấp dưới"
+
+#: ../admin/views/mlm-view_affiliate_children.php:42
+#: ../admin/views/payment-form.php:74 ../admin/views/payment-form.php:85
+#: ../admin/views/payment-form.php:154 ../admin/views/payment-form.php:165
+#: ../admin/views/payments_list_all_paid.php:21
+#: ../admin/views/payments_list_all_paid.php:33
+#: ../admin/views/payments_list_all_unpaid.php:22
+#: ../admin/views/payments_list_all_unpaid.php:31
+#: ../admin/views/ranks-list.php:13 ../admin/views/ranks-list.php:21
+#: ../admin/views/referrals-list.php:65 ../admin/views/referrals-list.php:78
+#: ../admin/views/transactions.php:29 ../admin/views/transactions.php:41
+#: ../public/views/account_page-coupons.php:15
+#: ../public/views/account_page-coupons.php:22
+#: ../public/views/account_page-mlm.php:50
+#: ../public/views/account_page-mlm.php:57
+#: ../public/views/account_page-payments.php:22
+#: ../public/views/account_page-payments.php:31
+#: ../public/views/account_page-referrals.php:29
+#: ../public/views/account_page-referrals_history.php:18
+#: ../public/views/wallet-add_new.php:29 ../public/views/wallet.php:43
+msgid "Amount"
+msgstr "Giá trị"
+
+#: ../admin/views/mlm-view_affiliate_children.php:54
+#: ../public/views/account_page-mlm.php:70
+msgid "No Children Yet!"
+msgstr "Chưa có cấp dưới"
+
+#: ../admin/views/mlm.php:3
+msgid "Multi-Level Marketing"
+msgstr "Đa cấp"
+
+#: ../admin/views/mlm.php:7
+msgid "Activate/Hold Multi-Level Marketing"
+msgstr "Kích hoạt/ giữ chế độ đa cấp"
+
+#: ../admin/views/mlm.php:21
+msgid "There are multiple ways the MLM system may work."
+msgstr "Có nhiều cách mà hệ thống đa cấp làm việc được."
+
+#: ../admin/views/mlm.php:34
+msgid "Matrix Options"
+msgstr "Lựa chọn dạng ma trận"
+
+#: ../admin/views/mlm.php:37
+msgid "Children Limit"
+msgstr "Không giới hạn cấp dưới"
+
+#: ../admin/views/mlm.php:41
+msgid "Matrix Depth(Levels)"
+msgstr "Ma trận theo chiều sâu"
+
+#: ../admin/views/mlm.php:49 ../admin/views/sign_up_referrals.php:21
+msgid "Default Amount"
+msgstr "Giá trị mặc định"
+
+#: ../admin/views/mlm.php:50
+msgid ""
+"Set the default Amount that will be used when no special amount is set for "
+"certain Rank."
+msgstr ""
+"Cài đặt giá trị mặc định sẽ được dùng khi không có giá trị cụ thể được thiết "
+"lập cho từng thứ hạng."
+
+#: ../admin/views/mlm.php:70
+msgid "Amount For Each Level"
+msgstr "Giá trị cho mỗi cấp bậc"
+
+#: ../admin/views/mlm.php:71
+msgid ""
+"Set a special MLM Amount for each Level for all your Ranks. This option will "
+"become available into Rank Settings page also providing the option to set "
+"special Amount for each Level on each Rank."
+msgstr ""
+"Cài đặt giá trị cụ thể cho cấp bậc theo tất cả thứ hạng. Lựa chọn này có sẵn "
+"trong trang cài đặt thứ hạng sẽ cung cấp lựa chọn để cài đặt giá trị cụ thể "
+"cho từng cấp bậc ở từng thứ hạng."
+
+#: ../admin/views/mlm.php:128
+msgid "Search MLM Relations"
+msgstr "Tìm kiếm đa cấp liên quan"
+
+#: ../admin/views/notification_settings.php:3
+msgid "Notifications Settings"
+msgstr "Cài đặt thông báo"
+
+#: ../admin/views/notification_settings.php:6
+msgid "'From' E-mail Address:"
+msgstr "'From' địa chỉ email:"
+
+#: ../admin/views/notification_settings.php:9
+msgid "'From' Name:"
+msgstr "'From' Tên"
+
+#: ../admin/views/notifications-add_edit.php:12
+msgid "Add/Edit Notification"
+msgstr "Thêm/sửa thông báo"
+
+#: ../admin/views/notifications-add_edit.php:15
+msgid "Action:"
+msgstr "Hành động:"
+
+#: ../admin/views/notifications-add_edit.php:21
+msgid "Register Process"
+msgstr "Tiến trình đăng ký"
+
+#: ../admin/views/notifications-add_edit.php:27 ../admin/views/opt_in.php:346
+#: ../public/views/login_form.php:26 ../public/views/login_form.php:77
+#: ../public/views/login_form.php:130 ../public/views/login_form.php:179
+#: ../public/views/login_form.php:233 ../public/views/login_form.php:289
+#: ../public/views/login_form.php:344
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: ../admin/views/notifications-add_edit.php:30
+msgid "Profile Update"
+msgstr "Cập nhật tài khoản"
+
+#: ../admin/views/notifications-add_edit.php:36
+msgid "Double E-mail Verification"
+msgstr "Email xác nhận"
+
+#: ../admin/views/notifications-add_edit.php:58
+msgid "Target Rank:"
+msgstr "Thứ hạng đích:"
+
+#: ../admin/views/notifications-add_edit.php:67
+msgid "Subject:"
+msgstr "Chủ đề:"
+
+#: ../admin/views/notifications-add_edit.php:71
+#: ../admin/views/register-custom_fields_add_edit.php:67
+msgid "Content:"
+msgstr "Nội dung:"
+
+#: ../admin/views/notifications-list.php:3
+msgid "Activate New Notification"
+msgstr "Kích hoạt thông báo mới"
+
+#: ../admin/views/notifications-list.php:4
+msgid "Check Mail Server"
+msgstr "Kiểm tra server mail"
+
+#: ../admin/views/notifications-list.php:14
+#: ../admin/views/notifications-list.php:22
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: ../admin/views/notifications-list.php:16
+#: ../admin/views/notifications-list.php:24
+msgid "Goes to"
+msgstr "Đi tới"
+
+#: ../admin/views/notifications-list.php:17
+#: ../admin/views/notifications-list.php:25
+msgid "Target Ranks"
+msgstr "Thứ hạng đích"
+
+#: ../admin/views/notifications-list.php:72
+msgid "No Notification Available!"
+msgstr "Không có sẵn thông báo!"
+
+#: ../admin/views/offers-add_edit.php:5
+msgid "Manage Offers"
+msgstr "Quản lý phiếu mua hàng"
+
+#: ../admin/views/offers-add_edit.php:10
+msgid "Activate/Hold Offer"
+msgstr "Kích hoạt/ giữ phiếu mua hàng"
+
+#: ../admin/views/offers-add_edit.php:11
+msgid "You can activate or deactivate an Offer anytime without delete it."
+msgstr ""
+"Bạn có thể kích hoạt hoặc vô hiệu hóa một phiếu mua hàng bất cứ khi nào mà "
+"không phải xóa nó."
+
+#: ../admin/views/offers-add_edit.php:36
+msgid "Offer Amount"
+msgstr "Giá trị phiếu mua hàng"
+
+#: ../admin/views/offers-add_edit.php:37
+msgid ""
+"A special Amount for this specific Offer needs to be set which will take in "
+"place the standard Amount Rank"
+msgstr ""
+"Một giá trị cụ thể cho phiếu mua hàng cần phải thiết lập để thay thế giá trị "
+"thứ hạng tiêu chuẩn"
+
+#: ../admin/views/offers-add_edit.php:60
+msgid "Date Range"
+msgstr "Thời gian"
+
+#: ../admin/views/offers-add_edit.php:61
+msgid ""
+"The Offer will be active on a certain time interval based on your selling "
+"strategy."
+msgstr ""
+"Phiếu mua hàng sẽ được kích hoạt vào thời điểm dựa theo chiến lược bán hàng "
+"của bạn."
+
+#: ../admin/views/offers-add_edit.php:72
+msgid "Targeting"
+msgstr "Mục tiêu"
+
+#: ../admin/views/offers-add_edit.php:73
+msgid ""
+"Based on Referral source and only for certain affiliates, the offer will be "
+"available."
+msgstr ""
+"Dựa trên nguồn giới thiệu và chỉ dành cho affiliate cụ thể, phiếu mua hàng "
+"sẽ có sẵn."
+
+#: ../admin/views/offers-add_edit.php:87
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: ../admin/views/offers-add_edit.php:104
+msgid "Specific Affiliate"
+msgstr "Affiliate cụ thể"
+
+#: ../admin/views/offers-add_edit.php:105
+msgid ""
+"Choose certain Affiliates or Type \"All\" to provide this Offer for all your "
+"affiliates users."
+msgstr ""
+"Lựa chọn affiliate cụ thể hoặc tất cả để cung cấp phiếu mua hàng cho tất cả "
+"thành viên Affiliates."
+
+#: ../admin/views/offers-add_edit.php:130
+msgid "Offer Color"
+msgstr "Màu phiếu mua hàng"
+
+#: ../admin/views/offers-list.php:3
+msgid "Add New Offer"
+msgstr "Thêm một phiếu mua hàng"
+
+#: ../admin/views/offers-list.php:4
+msgid "...create your Offers for specific Products or Affiliates"
+msgstr "... tạo phiếu mua hàng của bạn cho sản phẩm hoặc affiliates cụ thể."
+
+#: ../admin/views/offers-list.php:22
+msgid "Target Affiliates:"
+msgstr "Affiliates đích:"
+
+#: ../admin/views/offers-list.php:41 ../admin/views/referrals-list.php:62
+#: ../admin/views/referrals-list.php:75
+#: ../public/views/account_page-referrals.php:30
+#: ../public/views/account_page-referrals_history.php:19
+#: ../public/views/wallet-add_new.php:30
+msgid "From"
+msgstr "Từ"
+
+#: ../admin/views/offers-list.php:52
+msgid "No Offers to show. Please, add your first Offer. "
+msgstr "Không có phiếu mua hàng, vui lòng thêm một phiếu mua hàng."
+
+#: ../admin/views/opt_in.php:23
+msgid "E-mail List"
+msgstr "Danh sách email"
+
+#: ../admin/views/opt_in.php:42
+msgid ""
+"During the Registration process, the Affiliate email address is sent to your "
+"OptIn Destination"
+msgstr ""
+"Trong tiến trình đăng ký, Email của affiliate sẽ được gửi tới OptIn đích lưu "
+"trữ."
+
+#: ../admin/views/opt_in.php:50
+msgid "Additional Main E-Mail"
+msgstr "Bổ sung email chính"
+
+#: ../admin/views/opt_in.php:67
+msgid "Auth Code"
+msgstr "Mã xác nhận"
+
+#: ../admin/views/opt_in.php:80
+msgid "Get Your Auth Code From Here"
+msgstr "Lấy mã xác nhận từ đây"
+
+#: ../admin/views/opt_in.php:86
+msgid "Unique List ID:"
+msgstr "Danh sách ID duy nhất:"
+
+#: ../admin/views/opt_in.php:97
+msgid "Get Unique List ID"
+msgstr "Lấy danh sách ID"
+
+#: ../admin/views/opt_in.php:106
+msgid "Connect"
+msgstr "kết nối"
+
+#: ../admin/views/opt_in.php:136 ../admin/views/opt_in.php:183
+msgid "Where can I find my API Key?"
+msgstr "Tôi có thể tìm API Key ở đâu?"
+
+#: ../admin/views/opt_in.php:153 ../admin/views/opt_in.php:247
+msgid "Where can I find List ID?"
+msgstr "Tôi có thể tim danh sách ID ở đâu?"
+
+#: ../admin/views/opt_in.php:189
+msgid "Campaign Token"
+msgstr "Chiến dịch"
+
+#: ../admin/views/opt_in.php:200
+msgid "Where can I find Campaign Token?"
+msgstr "Tôi có thể tìm chiến dịch ở đâu?"
+
+#: ../admin/views/opt_in.php:230
+msgid "Where can I find API Key ?"
+msgstr "Tôi có thể tìm API Key ở đâu?"
+
+#: ../admin/views/opt_in.php:311
+msgid "Click on the list name:"
+msgstr "Click vào tên danh sách:"
+
+#: ../admin/views/opt_in.php:315
+msgid "Click on the list name and get the ID from the URL"
+msgstr "Click vào tên danh sách và lấy ID từ đường link URL"
+
+#: ../admin/views/opt_in.php:357
+msgid "Get Lists"
+msgstr "Lấy danh sách"
+
+#: ../admin/views/opt_in.php:363
+msgid "List"
+msgstr "Danh sách"
+
+#: ../admin/views/opt_in.php:415
+msgid "No List available "
+msgstr "Không có sẵn danh sách"
+
+#: ../admin/views/opt_in.php:434
+msgid "Select MyMail List:"
+msgstr "Lựa chọn danh sách mail của tôi:"
+
+#: ../admin/views/opt_in.php:453
+msgid "No List available"
+msgstr "Không có sẵn danh sách"
+
+#: ../admin/views/opt_in.php:472
+msgid "Username Or Email:"
+msgstr "Tài khoản hoặc Email"
+
+#: ../admin/views/opt_in.php:488
+msgid "List Name:"
+msgstr "Tên danh sách:"
+
+#: ../admin/views/opt_in.php:503
+msgid "Saved E-mail List"
+msgstr "Danh sách đã lưu"
+
+#: ../admin/views/page-meta_box.php:2
+msgid "Set the Page as:"
+msgstr "Cài đặt trang là\""
+
+#: ../admin/views/page-meta_box.php:9
+msgid "Page"
+msgstr "Trang"
+
+#: ../admin/views/page-meta_box.php:20
+msgid "Default "
+msgstr "Mặc định"
+
+#: ../admin/views/page-meta_box.php:20
+msgid "Page <b>Not Set!</b>"
+msgstr "Trang<b> chưa được đặt </b>"
+
+#: ../admin/views/payment-form.php:2
+msgid "Payment Form"
+msgstr "Form thanh toán"
+
+#: ../admin/views/payment-form.php:29
+msgid "Pay With"
+msgstr "Thanh toán với"
+
+#: ../admin/views/payment-form.php:30
+msgid ""
+"Choose one of the Payment Gateway Option. \"Bank Transfer\" is an offline "
+"alternative payment."
+msgstr ""
+"Lựa chọn một trong các hình thức thanh toán. \"Thanh toán chuyển khoản\" là "
+"một hình thức thanh toán Offline."
+
+#: ../admin/views/payment-form.php:49
+msgid "Payment Status"
+msgstr "Trạng thái thanh toán"
+
+#: ../admin/views/payment-form.php:50
+msgid ""
+"As \"Bank Transfer\" payment option you can set for now the a temporary "
+"Payment status."
+msgstr ""
+"Với hình thức \"Thanh toán chuyển khoản\" bạn có thể thiết lập trạng thái "
+"thanh toán tạm giữ."
+
+#: ../admin/views/payment-form.php:52
+#: ../admin/views/payments_list_all_paid.php:59
+#: ../admin/views/referral_list_details.php:127
+#: ../admin/views/transactions.php:77
+#: ../public/Affiliate_Account_Page.class.php:644
+#: ../public/views/account_page-payments.php:54
+#: ../public/views/account_page-referrals_history.php:46
+msgid "Pending"
+msgstr "Đang chờ"
+
+#: ../admin/views/payment-form.php:55
+#: ../admin/views/payments_list_all_paid.php:62
+#: ../admin/views/referral_list_details.php:130
+#: ../admin/views/transactions.php:82
+#: ../public/Affiliate_Account_Page.class.php:645
+#: ../public/views/account_page-payments.php:59
+msgid "Complete"
+msgstr "Hoàn thành"
+
+#: ../admin/views/payment-form.php:61
+msgid "Submit"
+msgstr "Gửi"
+
+#: ../admin/views/payment-form.php:62
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: ../admin/views/payment-form.php:70 ../admin/views/payment-form.php:81
+#: ../admin/views/payment-form.php:150 ../admin/views/payment-form.php:161
+#: ../admin/views/transactions.php:30 ../admin/views/transactions.php:42
+#: ../public/views/account_page-payment_settings.php:11
+#: ../public/views/account_page-payments.php:23
+#: ../public/views/account_page-payments.php:32
+msgid "Payment Type"
+msgstr "Kiểu thanh toán"
+
+#: ../admin/views/payment-form.php:71 ../admin/views/payment-form.php:82
+#: ../admin/views/payment-form.php:151 ../admin/views/payment-form.php:162
+#: ../admin/views/payments_list_all_paid.php:25
+#: ../admin/views/payments_list_all_paid.php:37
+msgid "Payment Details"
+msgstr "Thông tin thanh toán"
+
+#: ../admin/views/payments.php:2 ../admin/views/payments_list_all_unpaid.php:2
+#: ../public/views/account_page-overview.php:27
+msgid "UnPaid Referrals"
+msgstr "Người giới thiệu chưa thanh toán"
+
+#: ../admin/views/payments.php:41
+msgid "Total Paid Referrals"
+msgstr "Tổng cộng người giới thiệu đã thanh toán"
+
+#: ../admin/views/payments.php:51
+msgid "Total number of Paid Referrals"
+msgstr "Tổng cộng người giới thiệu đã thanh toán:"
+
+#: ../admin/views/payments.php:61
+msgid "Total number of UnPaid Referrals"
+msgstr "Tổng cộng người giới thiệu chưa thanh toán:"
+
+#: ../admin/views/payments.php:71
+msgid "Total number of Transactions"
+msgstr "Tổng các giao dịch"
+
+#: ../admin/views/payments.php:84 ../admin/views/payments.php:94
+msgid "Affiliate UserName"
+msgstr "Tài khoản Affiliates:"
+
+#: ../admin/views/payments.php:85 ../admin/views/payments.php:95
+#: ../admin/views/payments_list_all_paid.php:2
+#: ../public/views/account_page-overview.php:19
+msgid "Paid Referrals"
+msgstr "Người giới thiệu đã thanh toán"
+
+#: ../admin/views/payments.php:86 ../admin/views/payments.php:96
+msgid "Unpaid Referrals"
+msgstr "Người giới thiệu chưa thanh toán"
+
+#: ../admin/views/payments.php:88 ../admin/views/payments.php:98
+msgid "Unpaid Amount"
+msgstr "Giá trị chưa thanh toán"
+
+#: ../admin/views/payments_list_all_paid.php:20
+#: ../admin/views/payments_list_all_paid.php:32
+#: ../admin/views/payments_list_all_unpaid.php:21
+#: ../admin/views/payments_list_all_unpaid.php:30
+#: ../admin/views/referrals-list.php:63
+msgid "Reference"
+msgstr "Tham chiếu"
+
+#: ../admin/views/payments_list_all_paid.php:22
+#: ../admin/views/payments_list_all_paid.php:34
+#: ../admin/views/payments_list_all_unpaid.php:23
+#: ../admin/views/payments_list_all_unpaid.php:32
+#: ../admin/views/referrals-list.php:66 ../admin/views/referrals-list.php:79
+#: ../admin/views/visits.php:49 ../admin/views/visits.php:62
+#: ../public/views/account_page-list_visits.php:27
+#: ../public/views/account_page-list_visits.php:36
+#: ../public/views/account_page-referrals.php:35
+#: ../public/views/account_page-referrals_history.php:21
+msgid "Date"
+msgstr "Ngày"
+
+#: ../admin/views/payments_list_all_paid.php:23
+#: ../admin/views/payments_list_all_paid.php:35
+#: ../public/views/account_page-referrals_history.php:49
+msgid "Paid"
+msgstr "Đã thanh toán"
+
+#: ../admin/views/payments_list_all_paid.php:56
+#: ../public/views/account_page-referrals_history.php:43
+msgid "UnPaid"
+msgstr "Chưa thanh toán"
+
+#: ../admin/views/payments_list_all_unpaid.php:14
+#: ../admin/views/payments_list_all_unpaid.php:85
+msgid "Pay"
+msgstr "Thanh toán"
+
+#: ../admin/views/paypal.php:3
+msgid "PayPal - Payouts"
+msgstr "Thanh toán qua paypal"
+
+#: ../admin/views/paypal.php:8
+msgid "Activate/Hold PayPal Gateway"
+msgstr "Kích hoạt/ Giữ cổng thanh toán Paypal"
+
+#: ../admin/views/paypal.php:9
+msgid ""
+"Once is activated you can proceed payments to your Affiliate users via "
+"PayPal directly from Affiliate System"
+msgstr ""
+"Một khi kích hoạt bạn có thể thực hiện thanh toán tới thành viên Affiliate "
+"thông qua paypal từ hệ thống affiliate này."
+
+#: ../admin/views/periodically_reports.php:8
+msgid "Activate/Hold Periodically Reports"
+msgstr "Kích hoạt/ Giữ báo cáo định kỳ"
+
+#: ../admin/views/periodically_reports.php:9
+msgid ""
+"If this Module is activated, Affiliates will be able to get periodically "
+"reports about their Affiliate account and rewards. Each Affiliate may "
+"decides the periord of his reports (daily, weekly, monthly) from this "
+"Account Page."
+msgstr ""
+"Nếu module được kích hoạt, Affiliates sẽ có thể nhận được báo cáo định kỳ về "
+"tài khoản Affiliate. Mỗi Affiliate có thể quyết định thời gian gửi báo cáo "
+"là (ngày, tuần, tháng) từ tài khoản trang."
+
+#: ../admin/views/periodically_reports.php:21
+msgid "Report Subject"
+msgstr "Tiêu đề báo cáo"
+
+#: ../admin/views/periodically_reports.php:28
+msgid "Report Content"
+msgstr "Nội dung báo cáo"
+
+#: ../admin/views/periodically_reports.php:71
+msgid "Send Notification Time"
+msgstr "Thời gian gửi báo cáo"
+
+#: ../admin/views/periodically_reports.php:72
+msgid ""
+"Decide when is the best time of the day for your Website to start managing "
+"Email Reports. Everyday, the script is running on the back-end and check the "
+"time spent for each Affiliate from the last report and the Report period set "
+"by each Affiliate. If is time for sending a new one, the System will manage "
+"a new Report for Affiliate."
+msgstr ""
+"Quyết định xem khi nào là thời điểm tốt nhất trong ngày website của bạn bắt "
+"đầu xử lý email báo cáo. Hàng ngày, các mã Javascript kiểm tra thời gian sử "
+"dụng từ mỗi Affiliate từ thời điểm báo cáo trước và khoảng thời gian báo cáo "
+"từ mỗi affiliate. Nếu là thời điểm gửi 1 bản báo cáo mới thì hệ thống sẽ "
+"quản lý và xử lý báo cáo cho Affiliates."
+
+#: ../admin/views/periodically_reports.php:86
+msgid ""
+"Keep in mind that it may be necessary to be sent a big number of Emails and "
+"your Hosting provider may restrict this action only on certain no of Emails. "
+"Be sure that you are able to manage Email Reports for all of your Affiliates."
+"."
+msgstr ""
+"Hãy nhớ rằng nó cần thiết phải gửi một lượng email lớn và hosting của bạn có "
+"thể sẽ hạn chế việc này thậm chí là chặn gửi email. Hãy chắc chắn rằng bạn "
+"có thể quản lý email báo cáo cho tất cả các Affiliates.."
+
+#: ../admin/views/popup-shortcodes.php:10
+#: ../admin/views/register-settings.php:2 ../admin/views/shortcodes.php:8
+#: ../admin/views/showcases.php:12 ../indeed-affiliate-pro.php:128
+msgid "Register Form"
+msgstr "Form đăng ký"
+
+#: ../admin/views/popup-shortcodes.php:12 ../admin/views/shortcodes.php:10
+msgid "Logout Button"
+msgstr "Nút thoát"
+
+#: ../admin/views/popup-shortcodes.php:13 ../admin/views/shortcodes.php:11
+msgid "Password Recovery"
+msgstr "Khôi phục mật khẩu"
+
+#: ../admin/views/popup-shortcodes.php:14
+msgid "User Page"
+msgstr "Trang thành viên"
+
+#: ../admin/views/qr_code.php:9
+msgid ""
+"Affiliates may download and share their QR Codes anywhere out of the website."
+msgstr ""
+"Affiliates có thể tải hoặc chia sẻ mã QR Codes bất cứ nơi nào ngoài website "
+"của bạn."
+
+#: ../admin/views/qr_code.php:23
+msgid " QRCode Image Size"
+msgstr "Hình ảnh QR Codes"
+
+#: ../admin/views/qr_code.php:24
+msgid ""
+"Decides the Image size for qrCode. Bigger is much easier to be scanned but "
+"is loading slowly."
+msgstr ""
+"Quyết định kích thước hình ảnh QR Codes. Kích thước to hơn dễ dàng có thể "
+"quét mã hơn."
+
+#: ../admin/views/ranks-add_edit.php:3
+msgid "Manage Rank"
+msgstr "Quản lý thứ hạng"
+
+#: ../admin/views/ranks-add_edit.php:10
+msgid "Activate/Hold Rank"
+msgstr "Kích hoạt/ Giữ thứ hạng"
+
+#: ../admin/views/ranks-add_edit.php:11
+msgid ""
+"Active or set on Hold a specific Rank without being necessary to delete it"
+msgstr ""
+"Kích hoạt hoặc thiết lập giữ một thứ hạng cụ thể mà không cần thiết phải xóa "
+"nó."
+
+#: ../admin/views/ranks-add_edit.php:25 ../admin/views/register-settings.php:47
+msgid "Rank Settings"
+msgstr "Cài đặt thứ hạng"
+
+#: ../admin/views/ranks-add_edit.php:26
+msgid "The Slug needs to be unique and set only with lowercase characters"
+msgstr "Slug cần phải duy nhất và chỉ được sử dụng ký tự thường."
+
+#: ../admin/views/ranks-add_edit.php:29
+msgid "unique rank name"
+msgstr "tên thứ hạng phải duy nhất"
+
+#: ../admin/views/ranks-add_edit.php:48 ../admin/views/referrals-list.php:64
+#: ../admin/views/referrals-list.php:77
+#: ../public/views/account_page-referrals.php:34
+#: ../public/views/account_page-referrals_history.php:20
+#: ../public/views/wallet-add_new.php:31
+msgid "Description"
+msgstr "Mô tả:"
+
+#: ../admin/views/ranks-add_edit.php:58
+msgid "Position"
+msgstr "Vị trí"
+
+#: ../admin/views/ranks-add_edit.php:59
+msgid ""
+"Based on Rank Position an Affiliate may jump to the next Rank if the "
+"Achievement conditions are applied."
+msgstr ""
+"Dựa vào vị trí thứ hạng của affiliate có thể đạt tới thứ hạng tiếp theo nếu "
+"điều kiện hoàn thành đã vượt qua."
+
+#: ../admin/views/ranks-add_edit.php:63
+msgid "Order"
+msgstr "Đơn hàng"
+
+#: ../admin/views/ranks-add_edit.php:74
+msgid "Rank Amount"
+msgstr "Giá trị thứ hạng"
+
+#: ../admin/views/ranks-add_edit.php:75
+msgid ""
+"The default Rank Amount may be overwritten by specific Offers or other "
+"special Settings."
+msgstr ""
+"Giá trị thứ hạng mặc định có thể bị ghi đề bởi một phiếu mua hàng cụ thể "
+"hoặc một cài đặt cụ thể nào đó."
+
+#: ../admin/views/ranks-add_edit.php:99
+msgid "Achievement"
+msgstr "Thành tích"
+
+#: ../admin/views/ranks-add_edit.php:100
+msgid ""
+"To jump into current Rank, the Affiliates needs to accomplish the required "
+"achievements"
+msgstr ""
+"Để tới một thứ hạng hiện tại, Affiliates cần đặt được những điều kiện thành "
+"tích riêng."
+
+#: ../admin/views/ranks-add_edit.php:173
+msgid "Rank Color"
+msgstr "Màu sắc thứ hạng"
+
+#: ../admin/views/ranks-add_edit.php:206
+msgid "Bonus"
+msgstr "Thưởng thêm"
+
+#: ../admin/views/ranks-add_edit.php:210
+msgid "Achievement Bonus"
+msgstr "Thành tích thưởng thêm"
+
+#: ../admin/views/ranks-add_edit.php:226 ../admin/views/ranks-add_edit.php:230
+#: ../admin/views/sign_up_referrals.php:3 ../classes/Uap_Db.class.php:6322
+msgid "SignUp Referrals"
+msgstr "Người giới thiệu đăng ký"
+
+#: ../admin/views/ranks-add_edit.php:247
+msgid "LifeTime"
+msgstr "Trọn đời"
+
+#: ../admin/views/ranks-add_edit.php:251
+msgid "LifeTime Comission"
+msgstr "Hoa hồng trọn đời"
+
+#: ../admin/views/ranks-add_edit.php:252
+msgid ""
+"Allow for your Affiliate to receive commssion for all lifeTime referrals"
+msgstr "Cho phép Affiliate có thể nhận hoa hồng từ người giới thiệu trọn đời"
+
+#: ../admin/views/ranks-add_edit.php:281 ../admin/views/ranks-add_edit.php:285
+msgid "Reccurring Referrals"
+msgstr "Người giới thiệu định kỳ"
+
+#: ../admin/views/ranks-add_edit.php:313 ../admin/views/ranks-add_edit.php:317
+msgid "MLM Referrals For Each MLM Level"
+msgstr "Người giới thiệu đa cấp cho mỗi level đa cấp"
+
+#: ../admin/views/ranks-add_edit.php:318
+msgid "Set a Multi-Level Marketing system for your Affiliates"
+msgstr "Cài đặt hệ thống đa cấp cho Affiliates"
+
+#: ../admin/views/ranks-list.php:3
+msgid "Add new Rank"
+msgstr "Thêm thứ hạng mới"
+
+#: ../admin/views/ranks-list.php:4
+msgid "...create your Rank with new achievements!"
+msgstr "...thêm thứ hạng mới với thành tích mới!"
+
+#: ../admin/views/ranks-list.php:14 ../admin/views/ranks-list.php:22
+msgid "Achieve"
+msgstr "Hoàn thành"
+
+#: ../admin/views/ranks-list.php:51
+msgid "From: "
+msgstr "Từ:"
+
+#: ../admin/views/ranks-list.php:69
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: ../admin/views/ranks-list.php:70
+msgid "Inactive"
+msgstr "Không kích hoạt"
+
+#: ../admin/views/ranks-list.php:82
+msgid "No Ranks Available!"
+msgstr "Không có thứ hạng sẵn!"
+
+#: ../admin/views/reccuring_referrals.php:3 ../classes/Uap_Db.class.php:6338
+msgid "Reccuring Referrals"
+msgstr "Người giới thiệu định kỳ"
+
+#: ../admin/views/reccuring_referrals.php:7
+msgid "Activate/Hold Reccuring Referrals"
+msgstr "Kích hoạt/ Giữ người giới thiệu định kỳ"
+
+#: ../admin/views/reccuring_referrals.php:21
+msgid "Recurring Amount For Each Rank"
+msgstr "Giá trị định kỳ cho mỗi thứ hạng"
+
+#: ../admin/views/reccuring_referrals.php:22
+msgid ""
+"Set a special Recurring Amount for each Rank that will take in place the "
+"Default Amount Rank. This option will become available into Rank Settings "
+"page also."
+msgstr ""
+"Cài đặt một giá trị cụ thể cho mỗi thứ hạng sẽ được thay thế trong giá trị "
+"thứ hạng mặc định. Lựa chọn này sẽ có sẵn trong trang cài đặt thứ hạng."
+
+#: ../admin/views/reccuring_referrals.php:27
+msgid "Recurring Amount"
+msgstr "Giá trị định kỳ"
+
+#: ../admin/views/referral_list_details.php:3
+msgid "View Referral Details"
+msgstr "Xem chi tiết người giới thiệu"
+
+#: ../admin/views/referral_list_details.php:7
+#: ../admin/views/referrals-add_edit.php:9
+msgid "Visit Id:"
+msgstr "ID khách truy cập:"
+
+#: ../admin/views/referral_list_details.php:17
+#: ../admin/views/referrals-add_edit.php:17
+#: ../public/views/account_page-generate_links.php:51
+msgid "Campaign:"
+msgstr "Chiến dịch:"
+
+#: ../admin/views/referral_list_details.php:22
+#: ../admin/views/referrals-add_edit.php:21
+msgid "Affiliate:"
+msgstr "Đại lý:"
+
+#: ../admin/views/referral_list_details.php:32
+#: ../admin/views/referrals-add_edit.php:36
+msgid "Source:"
+msgstr "Nguồn:"
+
+#: ../admin/views/referral_list_details.php:37
+#: ../admin/views/referrals-add_edit.php:40
+msgid "Reference:"
+msgstr "Tham khảo:"
+
+#: ../admin/views/referral_list_details.php:78
+#: ../admin/views/referrals-add_edit.php:44
+msgid "Reference Details:"
+msgstr "Thông tin tham khảo:"
+
+#: ../admin/views/referral_list_details.php:83
+#: ../admin/views/referrals-add_edit.php:48
+msgid "Referral Parent:"
+msgstr "Người giới thiệu cấp trên:"
+
+#: ../admin/views/referral_list_details.php:88
+#: ../admin/views/referrals-add_edit.php:52
+msgid "Referral Child:"
+msgstr "Người giới thiệu cấp dưới:"
+
+#: ../admin/views/referral_list_details.php:93
+#: ../admin/views/referrals-add_edit.php:56
+#: ../public/views/account_page-source_details.php:5
+msgid "Amount:"
+msgstr "Giá trị:"
+
+#: ../admin/views/referral_list_details.php:98
+#: ../admin/views/referrals-add_edit.php:72
+msgid "Date:"
+msgstr "Ngày:"
+
+#: ../admin/views/referral_list_details.php:103
+#: ../admin/views/referrals-add_edit.php:76
+msgid "Status:"
+msgstr "Trạng thái:"
+
+#: ../admin/views/referral_list_details.php:110
+msgid "Unverfied"
+msgstr "Chưa xác nhận"
+
+#: ../admin/views/referral_list_details.php:120
+msgid "Payment Status:"
+msgstr "Trạng thái thanh toán:"
+
+#: ../admin/views/referral_list_details.php:124
+msgid "Unpaid"
+msgstr "Chưa thanh toán"
+
+#: ../admin/views/referral_list_details.php:138
+msgid "No details available!"
+msgstr "Không có sẵn chi tiết!"
+
+#: ../admin/views/referral_notifications.php:3 ../classes/Uap_Db.class.php:6469
+msgid "Referral Notifications"
+msgstr "Thông báo người người giới thiệu"
+
+#: ../admin/views/referral_notifications.php:8
+msgid "Activate/Hold Referral Notifications"
+msgstr "Kích hoạt và giữ thông báo người giới thiệu"
+
+#: ../admin/views/referral_notifications.php:9
+msgid ""
+"Based on this Module, the affiliates have the option to Receive Instantly "
+"notofications when he got a new Referral. Also, the Affiliate can decides "
+"from Account Page which type of Refferal will be noticed via Email"
+msgstr ""
+"Dựa vào module này, Các Affiliates có lựa chọn để nhận thông báo ngay lập "
+"trức khi họ nhận được một người giới thiệu mới. Đồng thời, Affiliate cũng có "
+"thể quyết định từ trang tài khoản rằng cách mà người giới thiệu sẽ được "
+"thông báo như thế nào thông qua email."
+
+#: ../admin/views/referral_notifications.php:21
+msgid "Notification Subject"
+msgstr "Chủ đề thông báo"
+
+#: ../admin/views/referral_notifications.php:28
+msgid "Notification Content"
+msgstr "Nội dung thông báo"
+
+#: ../admin/views/referrals-add_edit.php:5
+msgid "Add/Edit Refferal"
+msgstr "Thêm/sửa người giới thiệu"
+
+#: ../admin/views/referrals-add_edit.php:60
+#: ../admin/views/settings-general.php:80
+msgid "Currency:"
+msgstr "Tiền tề:"
+
+#: ../admin/views/referrals-add_edit.php:87
+msgid "Payment:"
+msgstr "Thanh toán:"
+
+#: ../admin/views/referrals-list.php:14
+msgid "Add New Referral"
+msgstr "Thêm người giới thiệu mới"
+
+#: ../admin/views/referrals-list.php:15
+msgid "...add manual Referrals for specific Affiliate"
+msgstr "...Thêm thủ công người giới thiệu mới cho một affiliate cụ thể."
+
+#: ../admin/views/referrals-list.php:32 ../admin/views/referrals-list.php:208
+#: ../utilities.php:1024
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: ../admin/views/referrals-list.php:36
+msgid "Number of Referrals to Display:"
+msgstr "Số người giới thiệu được hiển thị:"
+
+#: ../admin/views/referrals-list.php:76
+msgid "Referance"
+msgstr "Tham khảo"
+
+#: ../admin/views/referrals-list.php:91 ../admin/views/visits.php:80
+msgid "Unknown"
+msgstr "Không rõ"
+
+#: ../admin/views/referrals-list.php:178
+msgid "Mark as "
+msgstr "Đánh dấu là "
+
+#: ../admin/views/referrals-list.php:213
+msgid "No Referrals Stored!"
+msgstr "Không lưu trữ người giới thiệu!"
+
+#: ../admin/views/register-custom_fields.php:4
+msgid "Add New Register Form Field"
+msgstr "Thêm một trường trong form đăng ký"
+
+#: ../admin/views/register-custom_fields.php:7
+msgid "Registration Form"
+msgstr "Form đăng ký"
+
+#: ../admin/views/register-custom_fields.php:19
+#: ../admin/views/register-custom_fields.php:33
+msgid "Field Type"
+msgstr "Kiểu trường"
+
+#: ../admin/views/register-custom_fields.php:20
+#: ../admin/views/register-custom_fields.php:34
+msgid "On Admin"
+msgstr "Trên admin"
+
+#: ../admin/views/register-custom_fields.php:21
+#: ../admin/views/register-custom_fields.php:35
+msgid "On Register Page"
+msgstr "Trên trang đăng ký"
+
+#: ../admin/views/register-custom_fields.php:22
+#: ../admin/views/register-custom_fields.php:36
+msgid "On Account Page"
+msgstr "Trên trang tài khoản"
+
+#: ../admin/views/register-custom_fields.php:23
+#: ../admin/views/register-custom_fields.php:37
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: ../admin/views/register-custom_fields.php:75
+#: ../admin/views/register-custom_fields.php:87
+#: ../admin/views/register-custom_fields.php:99
+#: ../admin/views/register-custom_fields.php:113
+msgid "Always"
+msgstr "Luôn luôn"
+
+#: ../admin/views/register-custom_fields.php:115
+msgid "Required When Selected"
+msgstr "Bắt buộc khi  lựa chọn"
+
+#: ../admin/views/register-custom_fields.php:129
+#: ../admin/views/register-custom_fields_add_edit.php:103
+msgid "Yes"
+msgstr "ok"
+
+#: ../admin/views/register-custom_fields.php:131
+#: ../admin/views/register-custom_fields_add_edit.php:104
+msgid "No"
+msgstr "không"
+
+#: ../admin/views/register-custom_fields_add_edit.php:3
+msgid "User Custom Fields"
+msgstr "Tùy chỉnh trường thành viên"
+
+#: ../admin/views/register-custom_fields_add_edit.php:10
+msgid "Field Type:"
+msgstr "Kiểu trường"
+
+#: ../admin/views/register-custom_fields_add_edit.php:27
+msgid "Values"
+msgstr "Giá trị"
+
+#: ../admin/views/register-custom_fields_add_edit.php:52
+msgid "Add New Value"
+msgstr "Thêm một giá trị"
+
+#: ../admin/views/register-custom_fields_add_edit.php:57
+msgid "Right Answer:"
+msgstr "Trả lời đúng:"
+
+#: ../admin/views/register-custom_fields_add_edit.php:84
+msgid "Labels"
+msgstr "Nhãn"
+
+#: ../admin/views/register-custom_fields_add_edit.php:86
+msgid "Field Label:"
+msgstr "Trường nhãn:"
+
+#: ../admin/views/register-custom_fields_add_edit.php:89
+msgid "SubLabel:"
+msgstr "Nhãn phụ:"
+
+#: ../admin/views/register-custom_fields_add_edit.php:99
+msgid "Conditional Logic"
+msgstr "Điều kiện logic"
+
+#: ../admin/views/register-custom_fields_add_edit.php:101
+msgid "Show:"
+msgstr "Hiển thị:"
+
+#: ../admin/views/register-custom_fields_add_edit.php:109
+msgid "If Field:"
+msgstr "Nếu trường:"
+
+#: ../admin/views/register-custom_fields_add_edit.php:119
+msgid "Is"
+msgstr "là"
+
+#: ../admin/views/register-custom_fields_add_edit.php:120
+msgid "Contains"
+msgstr "Chứa đựng"
+
+#: ../admin/views/register-custom_messages.php:8
+msgid "Error - Username is taken:"
+msgstr "Lỗi - Tài khoản đã có:"
+
+#: ../admin/views/register-custom_messages.php:13
+msgid "Error - Invalid Username:"
+msgstr "Lỗi - Sai tài khoản"
+
+#: ../admin/views/register-custom_messages.php:18
+msgid "Error - Email is taken:"
+msgstr "Lỗi - Email đã có:"
+
+#: ../admin/views/register-custom_messages.php:23
+msgid "Error - Invalid Email Address:"
+msgstr "Lỗi - Sai địa chỉ email:"
+
+#: ../admin/views/register-custom_messages.php:28
+msgid "Error - Email Addresses did not Match:"
+msgstr "Lỗi - địa chỉ email không giống nhau:"
+
+#: ../admin/views/register-custom_messages.php:33
+msgid "Error - Password did not match:"
+msgstr "Lỗi - Mật khẩu không giống:"
+
+#: ../admin/views/register-custom_messages.php:38
+msgid "Error - Password Only Characters and Digits:"
+msgstr "Lỗi - mật khẩu chỉ có chữ và số:"
+
+#: ../admin/views/register-custom_messages.php:45
+msgid "Error - Password Min Length:"
+msgstr "Lỗi - mật khẩu tối thiểu:"
+
+#: ../admin/views/register-custom_messages.php:47
+msgid "Where {X} will be the minimum length of password."
+msgstr "Độ dài tối thiểu của mật khẩu"
+
+#: ../admin/views/register-custom_messages.php:51
+msgid "Error - Password Characters, Digits and minimum one uppercase letter:"
+msgstr "Lỗi - mật khẩu chữ, số và tối thiểu một chữ viết hoa:"
+
+#: ../admin/views/register-custom_messages.php:56
+msgid "Error - Pending User:"
+msgstr "Lỗi - tài khoản đang chờ:"
+
+#: ../admin/views/register-custom_messages.php:61
+msgid "Error - Empty Required Fields:"
+msgstr "Lỗi - trường bắt buộc chưa điền:"
+
+#: ../admin/views/register-custom_messages.php:76
+msgid "Success Message:"
+msgstr "Tin nhắn thành công:"
+
+#: ../admin/views/register-settings.php:11
+msgid "Design"
+msgstr "Thiết kế"
+
+#: ../admin/views/register-settings.php:18
+msgid "Register Template:"
+msgstr "Mẫu đăng ký:"
+
+#: ../admin/views/register-settings.php:49
+msgid "Default Rank assign to new user"
+msgstr "Thứ hạng mặc đính gán cho thành viên mới"
+
+#: ../admin/views/register-settings.php:66
+msgid "WP Role"
+msgstr "Vai trò trong WP"
+
+#: ../admin/views/register-settings.php:67
+msgid "Predefined Wordpress Role Assign to new users:"
+msgstr "Xác định một vai trò trong wordpress để gán cho thành viên mới:"
+
+#: ../admin/views/register-settings.php:81
+msgid ""
+"If the \"Pending\" Role is set, the user can not login until the Admin "
+"manually Approve the user."
+msgstr ""
+"Nếu vai trò đang chờ được thiết lập, thành viên không thể đăng nhập cho tới "
+"khi admin chấp thuận một cách thủ công."
+
+#: ../admin/views/register-settings.php:85
+msgid "After Approve Wordpress Role:"
+msgstr "Sau khi chấp nhận vai trò wordpress:"
+
+#: ../admin/views/register-settings.php:103
+msgid "Form Settings"
+msgstr "Form cài đặt"
+
+#: ../admin/views/register-settings.php:104
+msgid "Password Minimum Length"
+msgstr "Độ dài tối thiểu của mật khẩu"
+
+#: ../admin/views/register-settings.php:108
+msgid "Password Strength Options"
+msgstr "Độ mạnh mật khẩu"
+
+#: ../admin/views/register-settings.php:117
+msgid "Admin Notification"
+msgstr "Thông báo admin"
+
+#: ../admin/views/register-settings.php:124
+msgid "Notify admin address on every new registration"
+msgstr "Thông báo địa chỉ admin mới khi có đăng ký mới"
+
+#: ../admin/views/register-settings.php:125
+msgid ""
+"When a new user has registered, the WP Admin is notified using the default "
+"Email Admin address set into current WordPress Instance"
+msgstr ""
+"Khi một thành viên mới đăng ký, admin được thông báo sử dụng email mặc định "
+"cài đặt vào wordpress."
+
+#: ../admin/views/register-settings.php:129
+msgid "Other Settings"
+msgstr "Cài đặt khác"
+
+#: ../admin/views/register-settings.php:137
+msgid "Auto Login after Registration"
+msgstr "Tự động đăng nhập sau khi đăng ký"
+
+#: ../admin/views/register-settings.php:148
+msgid "Terms & Conditions (TOS) Label"
+msgstr "Nhãn điều khoản và điều kiện (TOS)"
+
+#: ../admin/views/reports.php:10
+msgid "Select reports from:"
+msgstr "Lựa chọn báo cáo từ:"
+
+#: ../admin/views/reports.php:16
+msgid "Check Results"
+msgstr "Kiểm tra kết quả"
+
+#: ../admin/views/reports.php:80
+msgid "Successful Conversions"
+msgstr "Chuyển đổi thành công"
+
+#: ../admin/views/reports.php:90
+msgid "Succesfully Rate"
+msgstr "Tỷ lệ thành công"
+
+#: ../admin/views/reports.php:151
+msgid "All Visits"
+msgstr "Tổng truy cập"
+
+#: ../admin/views/reports.php:155 ../public/views/account_page-reports.php:53
+msgid "Converted Visits"
+msgstr "Truy cập chuyển đổi"
+
+#: ../admin/views/reports.php:259
+msgid "All Referrals"
+msgstr "Tất cả người giới thiệu"
+
+#: ../admin/views/reports.php:263
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:33
+msgid "Refuse Referrals"
+msgstr "Người giới thiệu từ chối"
+
+#: ../admin/views/reports.php:267
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:32
+msgid "Unverified Referrals"
+msgstr "Người giới thiệu chưa xác nhận"
+
+#: ../admin/views/reports.php:271
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:31
+msgid "Verified Referrals"
+msgstr "Người giới thiệu đã xác nhận"
+
+#: ../admin/views/rewrite_referrals.php:3
+msgid "ReWrite Refferals"
+msgstr "Ghi đè người giới thiệu"
+
+#: ../admin/views/rewrite_referrals.php:7
+msgid "Activate/Hold ReWrite Refferals"
+msgstr "Kích hoạt/ Giữ ghi đè người giới thiệu"
+
+#: ../admin/views/rewrite_referrals.php:8
+msgid ""
+"Decides if new Customer is re-assigned on last or first linked Affiliate. If "
+"the same Customer is referred with another Affiliate than the first one, you "
+"can decide if the referrence will be changed or not. "
+msgstr ""
+"Quyết định nếu một khách hàng được gán link affiliate cho người đầu tiên hay "
+"người cuối cùng giới thiệu được link. Nếu cùng một khách hàng được giới "
+"thiệu với Affiliate khác với affiliate ban đầu, bạn có thể quyết định giới "
+"thiệu thay đổi hay là không."
+
+#: ../admin/views/settings-admin_workflow.php:9
+msgid "Updates"
+msgstr "Cập nhật"
+
+#: ../admin/views/settings-admin_workflow.php:11
+msgid "Update Affiliates Rank:"
+msgstr "Cập nhật thứ hạng Affiliates:"
+
+#: ../admin/views/settings-admin_workflow.php:14
+#: ../admin/views/settings-admin_workflow.php:31
+msgid "Hourly"
+msgstr "Hàng giờ"
+
+#: ../admin/views/settings-admin_workflow.php:15
+#: ../admin/views/settings-admin_workflow.php:32
+msgid "At every 12hours"
+msgstr "Mỗi 12 giờ"
+
+#: ../admin/views/settings-admin_workflow.php:16
+#: ../admin/views/settings-admin_workflow.php:33
+msgid "Daily"
+msgstr "Hàng ngày"
+
+#: ../admin/views/settings-admin_workflow.php:28
+msgid "Update Payments Status:"
+msgstr "Cập nhật trạng thái thanh toán:"
+
+#: ../admin/views/settings-admin_workflow.php:52
+msgid "Keep Referral Status as Unverified"
+msgstr "Giữ trạng thái người giới thiệu là chưa xác nhận"
+
+#: ../admin/views/settings-admin_workflow.php:54
+msgid "Don't change the Referral Status to Verified"
+msgstr "Không thay đổi trạng thái người giới thiệu thành xác nhận"
+
+#: ../admin/views/settings-admin_workflow.php:67
+msgid "Show Dashboard Notifications"
+msgstr "Hiển thị thông báo trên trang quản trị"
+
+#: ../admin/views/settings-admin_workflow.php:69
+msgid "New Affiliates & Referrals"
+msgstr "Affiliate và người giới thiệu mới"
+
+#: ../admin/views/settings-captcha.php:6
+msgid "Public Key:"
+msgstr "Mã khóa công khai:"
+
+#: ../admin/views/settings-captcha.php:9
+msgid "Private Key:"
+msgstr "Mã khóa riêng tư:"
+
+#: ../admin/views/settings-captcha.php:11
+msgid "Get Public and Private Keys from"
+msgstr "Lấy mã khóa công khai và riêng tư từ"
+
+#: ../admin/views/settings-captcha.php:11
+msgid "here"
+msgstr "đây"
+
+#: ../admin/views/settings-custom_currencies.php:3
+msgid "Add new Currency"
+msgstr "Thêm một tiền tệ"
+
+#: ../admin/views/settings-custom_currencies.php:6
+msgid "Code:"
+msgstr "Mã code:"
+
+#: ../admin/views/settings-custom_currencies.php:8
+msgid "Insert a valid Currency Code, ex: "
+msgstr "Thêm một mã tiền tệ chính xác, Ví dụ:"
+
+#: ../admin/views/settings-custom_currencies.php:8
+msgid "USD, EUR, CAD."
+msgstr "VND, USD,EUR.."
+
+#: ../admin/views/settings-custom_currencies.php:11
+msgid "Name:"
+msgstr "Tên:"
+
+#: ../admin/views/settings-default_pages.php:7
+msgid "Default Pages:"
+msgstr "Trang mặc định:"
+
+#: ../admin/views/settings-default_pages.php:11
+msgid "Register:"
+msgstr "Đăng ký:"
+
+#: ../admin/views/settings-default_pages.php:28
+msgid "Login Page:"
+msgstr "Trang đăng nhập:"
+
+#: ../admin/views/settings-default_pages.php:45
+msgid "Logout Page:"
+msgstr "Trang thoát:"
+
+#: ../admin/views/settings-default_pages.php:62
+msgid "User Account Page:"
+msgstr "Trang tài khoản người dùng:"
+
+#: ../admin/views/settings-default_pages.php:79
+msgid "TOS Page:"
+msgstr "Trang điều khoản dịch vụ:"
+
+#: ../admin/views/settings-default_pages.php:96
+msgid "Lost Password:"
+msgstr "Mất mật khẩu:"
+
+#: ../admin/views/settings-general.php:8
+msgid "Redirect"
+msgstr "Chuyển hướng"
+
+#: ../admin/views/settings-general.php:9
+msgid "Redirect Same Page Without URL parameters:"
+msgstr "Chuyển hướng trang tương tự mà không có tham số URL:"
+
+#: ../admin/views/settings-general.php:23
+msgid "Refferal Settings"
+msgstr "Cài đặt người giới thiệu"
+
+#: ../admin/views/settings-general.php:25
+msgid "Set the referral Variable name"
+msgstr "Thiết lập tên người giới thiệu"
+
+#: ../admin/views/settings-general.php:35
+msgid "Referral Format:"
+msgstr "Định dạng người giới thiệu:"
+
+#: ../admin/views/settings-general.php:53
+msgid "Cookie Expiration:"
+msgstr "Thời gian cookie hết hạn:"
+
+#: ../admin/views/settings-general.php:55
+msgid "Days"
+msgstr "Ngày"
+
+#: ../admin/views/settings-general.php:65
+msgid "Campaign Settings"
+msgstr "Cài đặt chiến dịch"
+
+#: ../admin/views/settings-general.php:67
+msgid "Set the Campaign Variable name"
+msgstr "Cài đặt tên chiến dịch"
+
+#: ../admin/views/settings-general.php:78
+msgid "Amount Value Settings"
+msgstr "Cài đặt giá trị"
+
+#: ../admin/views/settings-general.php:93
+msgid "On Referral Use:"
+msgstr "Dùng trên người giới thiệu:"
+
+#: ../admin/views/settings-general.php:95
+msgid "Lowest Offer"
+msgstr "Phiếu mua hàng thấp nhất"
+
+#: ../admin/views/settings-general.php:95
+msgid "Biggest Offer"
+msgstr "Phiếu mua hàng lớn nhất"
+
+#: ../admin/views/settings-general.php:106
+msgid "Exclude Shipping"
+msgstr "Loại bỏ vận chuyển"
+
+#: ../admin/views/settings-general.php:116
+msgid "Exclude Tax"
+msgstr "Loại bỏ thuế"
+
+#: ../admin/views/settings-general.php:134
+msgid "Automatically Affiliate"
+msgstr "Đại lý tự động"
+
+#: ../admin/views/settings-general.php:135
+msgid "All new Users become Affiliates"
+msgstr "Tất cả các thành viên mới trở thành Affiliates"
+
+#: ../admin/views/settings-general.php:150
+msgid "Empty Referrals"
+msgstr "Người giới thiệu trống"
+
+#: ../admin/views/settings-general.php:151
+msgid "Save Empty Referrals"
+msgstr "Lưu người giới thiệu trống"
+
+#: ../admin/views/settings-public_workflow.php:10
+msgid "Hide Payment Warnings"
+msgstr "Ẩn cảnh báo thanh toán"
+
+#: ../admin/views/settings-public_workflow.php:22
+msgid "Default Payment System"
+msgstr "Hệ thống thanh toán mặc định"
+
+#: ../admin/views/settings-public_workflow.php:23
+msgid "When a new Affiliate SignUp this will be his payment system."
+msgstr "Khi một Affiliate mới đăng ký, đây là hình thức thanh toán của họ"
+
+#: ../admin/views/settings-public_workflow.php:39
+msgid "Disable Bank Transfer"
+msgstr "Vô hiệu hóa chuyển khoản ngân hàng"
+
+#: ../admin/views/settings-public_workflow.php:40
+msgid "Affiliates will not be able to use Bank Transfer anymore."
+msgstr "Affiliates không thể sử dụng chuyển khoản ngân hàng nữa."
+
+#: ../admin/views/settings-redirects.php:10
+msgid "After LogOut:"
+msgstr "Sau khi thoát:"
+
+#: ../admin/views/settings-redirects.php:12
+#: ../admin/views/settings-redirects.php:30
+#: ../admin/views/settings-redirects.php:48
+#: ../admin/views/settings-redirects.php:76
+#: ../admin/views/settings-redirects.php:94
+#: ../admin/views/settings-redirects.php:112
+#: ../admin/views/settings-redirects.php:130
+#: ../admin/views/settings-redirects.php:148
+msgid "Do Not Redirect"
+msgstr "Không chuyển hướng"
+
+#: ../admin/views/settings-redirects.php:28
+msgid "After Registration:"
+msgstr "Sau khi đăng ký:"
+
+#: ../admin/views/settings-redirects.php:46
+msgid "After Login:"
+msgstr "Sau khi đăng nhập:"
+
+#: ../admin/views/settings-redirects.php:70
+msgid "Extra Redirects"
+msgstr "Mở rộng chuyển hướng"
+
+#: ../admin/views/settings-redirects.php:74
+msgid "Account Page - Non Logged Affiliates"
+msgstr "Trang tài khoản - Không phải affiliate đăng nhập"
+
+#: ../admin/views/settings-redirects.php:92
+msgid "Login Page - Affiliates Logged"
+msgstr "Trang đăng nhập - Affiliates"
+
+#: ../admin/views/settings-redirects.php:110
+msgid "Register Page - Affiliates Logged"
+msgstr "Trang đăng ký - Affiliatesd"
+
+#: ../admin/views/settings-redirects.php:128
+msgid "LogOut Page - Non Logged Affiliates"
+msgstr "Trang thoát - không phải Affiliates"
+
+#: ../admin/views/settings-redirects.php:146
+msgid "Lost Password Page - Non Logged Affiliates"
+msgstr "Trang mất mật khẩu  - Không phải Affiliates"
+
+#: ../admin/views/settings-uploads.php:6
+msgid "Upload File Accepted Extensions:"
+msgstr "File mở rộng chấp nhận tải lên:"
+
+#: ../admin/views/settings-uploads.php:9
+msgid "Write the extensions with comma between values! ex: pdf,jpg,mp3"
+msgstr ""
+"Viết file mở rộng cách nhau bởi dấu phẩy ngăn cách giá trị! ví dụ: pdf,jpb,"
+"mp3.."
+
+#: ../admin/views/settings-uploads.php:14
+msgid "Upload File Maximum File Size:"
+msgstr "Kích thước tải file tối đa:"
+
+#: ../admin/views/settings-uploads.php:21
+msgid "Avatar Maximum File Size:"
+msgstr "Kích thước ảnh avatar tối đa:"
+
+#: ../admin/views/shortcodes.php:12 ../admin/views/showcases.php:14
+#: ../indeed-affiliate-pro.php:131
+msgid "Account Page"
+msgstr "Trang tài khoản"
+
+#: ../admin/views/shortcodes.php:29
+msgid "Field"
+msgstr "Trường"
+
+#: ../admin/views/shortcodes.php:86
+msgid "User Become Affiliate Button"
+msgstr "Trở thành affiliates (Đại lý)"
+
+#: ../admin/views/showcases.php:12
+msgid "Templates, Custom Fields, Special Settings, Custom Messages"
+msgstr "Mẫu, tùy chỉnh trường, cài đặt cụ thể, tùy chỉnh tin nhắn"
+
+#: ../admin/views/showcases.php:13
+msgid "Templates, Display Options, Custom Messages"
+msgstr "Mẫu, tùy chọn hiển thị, tùy chọn tin nhắn"
+
+#: ../admin/views/showcases.php:14
+msgid "Templates, ShowUp fields, ShowUp Tabs, Predefined Overview"
+msgstr "Mẫu, hiển thị trường, hiển thị tabs, tổng quan"
+
+#: ../admin/views/showcases.php:15 ../indeed-affiliate-pro.php:130
+msgid "Top Affiliates"
+msgstr "Affiliates thành tích tốt nhất"
+
+#: ../admin/views/showcases.php:15
+msgid "Public Affiliates List ordered by Earnings, Referrals or Visits"
+msgstr ""
+"Danh sách công khai affiliates sắp xếp theo doanh thu,người giới thiệu hoặc "
+"truyh cập"
+
+#: ../admin/views/sign_up_referrals.php:7
+msgid "Activate/Hold SignUp Referrals"
+msgstr "Kích hoạt/ Giữ người giới thiệu đăng ký"
+
+#: ../admin/views/sign_up_referrals.php:22
+msgid ""
+"Set the default Flat Amount that will be used when no special amount is set "
+"for certain Rank"
+msgstr ""
+"Cài đặt giá trị mặc định mà sẽ sử dụng khi không có giá trị cụ thể nào được "
+"thiết lập cho một thứ hạng"
+
+#: ../admin/views/sign_up_referrals.php:50
+msgid ""
+"Set a special SignUp Amount for each Rank. This option will become available "
+"into Rank Settings page also."
+msgstr ""
+"Cài đặt một giá trị đăng ký cụ thể cho mỗi thứ hạng. Lựa chọn này sẽ có sẵn "
+"trong trang cài đặt thứ hạng."
+
+#: ../admin/views/social_share.php:6 ../classes/Uap_Db.class.php:6346
+msgid "Social Share"
+msgstr "Chia sẻ mạng xã hội"
+
+#: ../admin/views/social_share.php:11
+msgid "Activate/Hold Social Share"
+msgstr "Kích hoạt/ Giữ chia sẻ mạng xã hội"
+
+#: ../admin/views/social_share.php:12
+msgid ""
+"This Feature will work only if You have '<strong>Social Share & Locker Pro "
+"Wordpress Plugin</strong>' installed and activated."
+msgstr ""
+"Đặc tính này chỉ hoạt động nếu bạn có '<strong> cài đặt plugin social share "
+"& locker plugin</strong>' và kích hoạt nó."
+
+#: ../admin/views/social_share.php:24
+msgid "Custom Share Message"
+msgstr "Tùy chỉnh tin nhắn chia sẻ"
+
+#: ../admin/views/social_share.php:25
+msgid ""
+"For a better Share action, you may set a custom Message that will be listed "
+"besides the Affiliate Links."
+msgstr ""
+"Để có hành động tốt khi chia sẻ, bạn nên thiết lập tùy chỉnh tin nhắn để "
+"hiển thị bên cạnh đường link Affiliate của bạn."
+
+#: ../admin/views/social_share.php:34
+msgid ""
+"You can generate the Social Share Shortcode from Social Share&Locker "
+"Dashboard and Paste it here."
+msgstr ""
+"Bạn có thể tạo mã chia sẻ mạng xã hổi từ plugin Social Share&Locker  và dán "
+"nó ở đây."
+
+#: ../admin/views/social_share.php:37
+msgid "Click here"
+msgstr "click vào đây"
+
+#: ../admin/views/source_details.php:6 ../classes/Uap_Db.class.php:6509
+#: ../public/views/account_page-referrals.php:32
+msgid "Source Details"
+msgstr "Nguồn chi tiết"
+
+#: ../admin/views/source_details.php:10
+msgid "Activate/Hold Source Details into Account Page"
+msgstr "Kích hoạt/ Giữ nguồn chi tiết vào trang tài khoản"
+
+#: ../admin/views/top_affiliates.php:39
+#: ../admin/views/top_affiliates_settings.php:2
+msgid "Top Affiliates List"
+msgstr "Danh sách các Affiliates hoạt động tích cực nhất"
+
+#: ../admin/views/top_affiliates.php:55
+msgid "Display Entries"
+msgstr "Hiển thị mục"
+
+#: ../admin/views/top_affiliates.php:58
+msgid "Number Of Entries:"
+msgstr "Số mục:"
+
+#: ../admin/views/top_affiliates.php:62
+msgid "Entries Per Page:"
+msgstr "Số mục trên 1 trang:"
+
+#: ../admin/views/top_affiliates.php:67
+msgid "Order By:"
+msgstr "Sắp xếp theo:"
+
+#: ../admin/views/top_affiliates.php:73 ../admin/views/top_affiliates.php:384
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:30
+#: ../public/views/account_page-header.php:25
+#: ../public/views/account_page-header.php:72
+msgid "Earnings"
+msgstr "Thu nhập"
+
+#: ../admin/views/top_affiliates.php:75
+msgid "Register Date"
+msgstr "Ngày đăng ký"
+
+#: ../admin/views/top_affiliates.php:77
+msgid "E-mail Address"
+msgstr "Địa chỉ email"
+
+#: ../admin/views/top_affiliates.php:78
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: ../admin/views/top_affiliates.php:91
+msgid "Order Type:"
+msgstr "Kiểu sắp xếp:"
+
+#: ../admin/views/top_affiliates.php:108
+msgid "Filter By Rank"
+msgstr "Lọc theo thứ hạng"
+
+#: ../admin/views/top_affiliates.php:114
+msgid "User's Ranks:"
+msgstr "Thứ hạng người dùng:"
+
+#: ../admin/views/top_affiliates.php:149
+msgid "Select Theme"
+msgstr "Lựa chọn theme"
+
+#: ../admin/views/top_affiliates.php:194
+msgid "Columns"
+msgstr "Cột"
+
+#: ../admin/views/top_affiliates.php:200
+#: ../admin/views/top_affiliates_settings.php:11
+#: ../admin/views/top_affiliates_settings.php:12
+#: ../admin/views/top_affiliates_settings.php:13
+#: ../admin/views/top_affiliates_settings.php:14
+#: ../admin/views/top_affiliates_settings.php:15
+#: ../admin/views/top_affiliates_settings.php:16
+msgid " Columns"
+msgstr "Cột"
+
+#: ../admin/views/top_affiliates.php:207 ../admin/views/top_affiliates.php:331
+msgid "Additional Options"
+msgstr "Tùy chọn bổ sung"
+
+#: ../admin/views/top_affiliates.php:211
+msgid "Align the Items Centered"
+msgstr "Căn chỉnh mục theo trung tâm"
+
+#: ../admin/views/top_affiliates.php:217
+msgid "Show Fields Label"
+msgstr "Hiển thị trường nhãn"
+
+#: ../admin/views/top_affiliates.php:229
+msgid "Show as Slider"
+msgstr "Hiển thị dạng slider"
+
+#: ../admin/views/top_affiliates.php:236
+msgid "Items per Slide:"
+msgstr "Số đối tượng trên một slide:"
+
+#: ../admin/views/top_affiliates.php:343
+msgid "AutoPlay"
+msgstr "Tự động chạy"
+
+#: ../admin/views/top_affiliates.php:347
+msgid "Stop On Hover"
+msgstr "Dừng khi dê chuột vào"
+
+#: ../admin/views/top_affiliates.php:355
+msgid "Auto Height"
+msgstr "Chiều cao tự động"
+
+#: ../admin/views/top_affiliates.php:446
+msgid "Preview"
+msgstr "Xem trước"
+
+#: ../admin/views/top_affiliates_settings.php:9
+msgid "Screen Max-Width:"
+msgstr "Chiều rộng màn hình tối đa:"
+
+#: ../admin/views/top_affiliates_settings.php:17
+msgid "Auto"
+msgstr "Tự đọng"
+
+#: ../admin/views/top_affiliates_settings.php:29
+#: ../admin/views/top_affiliates_settings.php:41
+msgid "Screen Min-Width:"
+msgstr "Chiều rộng màn hình tối thiểu:"
+
+#: ../admin/views/top_affiliates_settings.php:29
+#: ../admin/views/top_affiliates_settings.php:41
+msgid " and Screen Max-Width:"
+msgstr "Chiều rộng màn hình tối đa:"
+
+#: ../admin/views/top_affiliates_settings.php:53
+#: ../admin/views/top_affiliates_settings.php:66
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: ../admin/views/top_affiliates_settings.php:62
+msgid ""
+"Add !important;  after each style option and full style path to be sure that "
+"it will take effect!"
+msgstr ""
+"Thêm !Quan trọng; after each style option and full style path to be sure "
+"that it will take effect!"
+
+#: ../admin/views/transactions.php:16
+msgid "The Payment cannot be proceed for affiliate "
+msgstr "Thanh toán không thể tiến hành cho Affiliate"
+
+#: ../admin/views/transactions.php:16
+msgid " because of the payment settings."
+msgstr "Bởi vì cài đặt thanh toán."
+
+#: ../admin/views/transactions.php:22
+msgid "Check Payments Status"
+msgstr "Kiểm tra trạng thái thanh toán"
+
+#: ../admin/views/transactions.php:31 ../admin/views/transactions.php:43
+#: ../public/views/account_page-payments.php:24
+#: ../public/views/account_page-payments.php:33
+msgid "Create Date"
+msgstr "Ngày tạo"
+
+#: ../admin/views/transactions.php:32 ../admin/views/transactions.php:44
+#: ../public/views/account_page-payments.php:25
+#: ../public/views/account_page-payments.php:34
+msgid "Update Date"
+msgstr "Ngày cập nhật"
+
+#: ../admin/views/transactions.php:33 ../admin/views/transactions.php:45
+msgid "Payment Service Status"
+msgstr "Trạng thái thanh toán dịch vụ"
+
+#: ../admin/views/transactions.php:72
+#: ../public/Affiliate_Account_Page.class.php:643
+#: ../public/views/account_page-payments.php:49
+msgid "Fail"
+msgstr "Thất bại"
+
+#: ../admin/views/transactions.php:88
+msgid "View Details"
+msgstr "Xem chi tiết"
+
+#: ../admin/views/transactions.php:94
+msgid "Mark as Pending"
+msgstr "Đánh dấu là đang chờ"
+
+#: ../admin/views/transactions.php:99
+msgid "Mark as Complete"
+msgstr "Đánh dấu là hoàn tất"
+
+#: ../admin/views/visits.php:15
+msgid "Number of Visits to Display:"
+msgstr "Hiển thị số truy cập:"
+
+#: ../admin/views/visits.php:45 ../admin/views/visits.php:58
+msgid "Referral ID"
+msgstr "ID người giới thiệu"
+
+#: ../admin/views/visits.php:47 ../admin/views/visits.php:60
+#: ../public/views/account_page-list_visits.php:25
+#: ../public/views/account_page-list_visits.php:34
+msgid "Browser"
+msgstr "Duyệt tìm"
+
+#: ../admin/views/visits.php:48 ../admin/views/visits.php:61
+#: ../public/views/account_page-list_visits.php:26
+#: ../public/views/account_page-list_visits.php:35
+msgid "Device"
+msgstr "Thiết bị"
+
+#: ../admin/views/visits.php:89 ../public/views/account_page-list_visits.php:28
+#: ../public/views/account_page-list_visits.php:37
+msgid "Converted"
+msgstr "Đã chuyển đổi"
+
+#: ../admin/views/visits.php:90
+msgid "Just Visit"
+msgstr "Vừa mới truy cập"
+
+#: ../admin/views/visits.php:110
+msgid "No Visits Stored!"
+msgstr "Không có lưu trữ truy cập!"
+
+#: ../admin/views/wallet.php:7
+msgid "Activate/Hold Wallet"
+msgstr "Kích hoạt/ Giữ ví điện tử"
+
+#: ../admin/views/wallet.php:8
+msgid ""
+"Affiliates will have the options to spend their Earnings directly into the "
+"Website during further purchases based on Generated Coupons with specific "
+"flat discount."
+msgstr ""
+"Affiliates có lựa chọn sử dụng thu nhập của họ trực tiếp trên website dùng "
+"cho mục đích mua sắm sau này dựa trên mã ưu đãi đã tạo với tỉ lệ giảm giá "
+"theo thứ hạng."
+
+#: ../admin/views/wallet.php:19
+msgid ""
+"Establish a minimum amount available for Affiliate to be able to move his "
+"Earnings from his account into his Wallet. Only Referrals that are Verified "
+"but not Paid yet can be available for converting into Coupons into Affiliate "
+"Wallet"
+msgstr ""
+"Thiết lập giá trị tối thiểu cho affiliates để có thể chuyển thu nhập qua ví "
+"điện tự của họ. Chỉ người giới thiệu được xác nhận mà chưa thanh toán mới có "
+"thể chuyển đổi thành mã ưu đãi trong ví của affiliates."
+
+#: ../admin/views/wallet.php:25
+msgid "Minimum Amount"
+msgstr "Giá trị tối thiểu"
+
+#: ../admin/views/woo_account_page.php:9
+msgid ""
+"Fully integrate user Affiliate Account with their WooCommerce MyAccount. "
+"Once is activated a new Tab into Woo MyAccount menu will show up."
+msgstr ""
+"Tích hợp đầy đủ tài khoản affiliate với tài khoản đơn hàng. Một khi nó được "
+"kích hoạt, một tab mới affiliate sẽ được hiển thị trong menu myaccount."
+
+#: ../classes/ResetPassword.class.php:45 ../classes/ResetPassword.class.php:89
+msgid "Password reset on "
+msgstr "Khôi phục mật khẩu tại "
+
+#: ../classes/ResetPassword.class.php:46
+msgid ""
+"<p>You or someone else has requested to change password for your account.</p>"
+"</br><p>To change Your Password click on this URL: </p>"
+msgstr ""
+"<p> Bạn hoặc ai đó yêu cầu thay đổi mật khẩu cho tài khoản của bạn. </p> "
+"</br><p> Để thay đổi mật khẩu clikc vào link sau:</p>"
+
+#: ../classes/ResetPassword.class.php:90
+msgid "Your new password it's: "
+msgstr "Mật khẩu mới của bạn là:"
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:76
+msgid "Confirm Password"
+msgstr "Xác nhận mật khẩu"
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:213
+msgid "Select a Parent for this Affiliate"
+msgstr "Lựa chọn một cấp bậc trên cho Affiliate này"
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:215
+msgid "MLM Section"
+msgstr "Phần đa cấp"
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:746
+msgid "Select Post For Account Page Overview:"
+msgstr "Lựa chọn bài viết từ trang tổng quan tài khoản:"
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:1039
+msgid "Error on trying to save custom slug"
+msgstr "Lỗi khi lưu tùy chỉnh slug"
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:43
+msgid "Referral Amount"
+msgstr "Giá trị giới thiệu"
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:44
+msgid "Referral Source"
+msgstr "Nguồn giới thiệu"
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:46
+msgid "Referral Referece"
+msgstr "Giới thiệu tham chiếu"
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:48
+msgid "Referral Date"
+msgstr "Ngày giới thiệu"
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:49
+msgid "Referral Campaign"
+msgstr "Chiến dịch giới thiệu"
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:50
+msgid "Referral Status"
+msgstr "Trạng thái giới thiệu"
+
+#: ../classes/Uap_Ajax.class.php:115
+#: ../public/views/account_page-generate_links.php:26
+#: ../public/views/account_page-generate_links.php:39
+msgid "Download"
+msgstr "Tải xuống"
+
+#: ../classes/Uap_Ajax.class.php:488
+msgid "Testing Your E-mail Server"
+msgstr "Kiểm tra server email"
+
+#: ../classes/Uap_Cron_Jobs.class.php:108
+msgid "User "
+msgstr "Thành viên"
+
+#: ../classes/Uap_Cron_Jobs.class.php:108
+msgid " has a custom slug that match with nickname of "
+msgstr "có một tùy chỉnh slug giống như nickname của"
+
+#: ../classes/Uap_Cron_Jobs.class.php:111
+msgid "We inform You that: "
+msgstr "Chúng tôi thông tin tới bạn là:"
+
+#: ../classes/Uap_Cron_Jobs.class.php:111
+msgid "This could cause some errors into Ultimate Affiliate Pro."
+msgstr "Điều này có thể gây ra lỗi đối với Ultimate Affiliates pro."
+
+#: ../classes/Uap_Cron_Jobs.class.php:114
+msgid "Hello"
+msgstr "Xin chào"
+
+#: ../classes/Uap_Db.class.php:300
+msgid "Affiliate Register Page"
+msgstr "Trang đăng ký Affiliate"
+
+#: ../classes/Uap_Db.class.php:304
+msgid "Affiliate Login Page"
+msgstr "Trang đăng nhập Affiliate"
+
+#: ../classes/Uap_Db.class.php:308
+msgid "Affiliate Account Page"
+msgstr "Trang tài khoản Affiliate!"
+
+#: ../classes/Uap_Db.class.php:312
+msgid "Affiliate Lost Password"
+msgstr "Quên mật khẩu Affiliate"
+
+#: ../classes/Uap_Db.class.php:316
+msgid "Affiliate TOS Page"
+msgstr "Trang điều khoản dịch vụ:"
+
+#: ../classes/Uap_Db.class.php:1308
+msgid "Accept our Terms&Conditions"
+msgstr "Chấp nhận điều khoản và điều kiện của chúng tôi"
+
+#: ../classes/Uap_Db.class.php:1404
+msgid ""
+"Hey There,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThis is the Overview section.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t&nbsp;\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEnjoy the sun."
+msgstr "Xin chào, Đây là phần tổng qua, hãy tận hưởng."
+
+#: ../classes/Uap_Db.class.php:1424 ../classes/Uap_Db.class.php:1425
+#: ../public/views/account_page-header.php:76
+msgid "Traffic Log"
+msgstr "Lưu lượng truy cập"
+
+#: ../classes/Uap_Db.class.php:1433 ../classes/Uap_Db.class.php:1434
+msgid "Overall"
+msgstr "Tổng quát"
+
+#: ../classes/Uap_Db.class.php:1452
+msgid "Custom Slug"
+msgstr "Tùy chỉnh slug"
+
+#: ../classes/Uap_Db.class.php:1600 ../classes/Uap_Db.class.php:1609
+msgid "How about become our affiliate?"
+msgstr ""
+"Tại sao không trở thành Affiliates *(Đại lý) của Javis Store? Kiếm tiền ngay."
+".."
+
+#: ../classes/Uap_Db.class.php:1954 ../public/Referral_Main.class.php:304
+msgid "Bonus for reaching rank: "
+msgstr "Thưởng thêm khi tăng thứ hạng mới: "
+
+#: ../classes/Uap_Db.class.php:4404
+msgid "Deleted Affiliate"
+msgstr "Đã xóa Affiliate"
+
+#: ../classes/Uap_Db.class.php:6373
+msgid "Allow Own Reference"
+msgstr "Cho phép Affiliate dùng link giới thiệu"
+
+#: ../classes/Uap_Db.class.php:6389
+msgid "ReAssign Referral"
+msgstr "Gán lại cho người giới thiệu"
+
+#: ../classes/Uap_Db.class.php:6421
+msgid "Friendly Affiliate Links"
+msgstr "Link affiliate thân thiện"
+
+#: ../classes/Uap_Db.class.php:6501
+msgid "Custom Currencies"
+msgstr "Tùy chỉnh tiền tệ"
+
+#: ../classes/Uap_Listing_Affiliates.class.php:669
+msgid " Earnings "
+msgstr "Thu nhập"
+
+#: ../classes/Uap_Listing_Affiliates.class.php:676
+msgid " Referrals"
+msgstr "Người giới thiệu"
+
+#: ../classes/Uap_Listing_Affiliates.class.php:683
+msgid " Visits"
+msgstr "Truy cập"
+
+#: ../indeed-affiliate-pro.php:120
+msgid "Affiliate Pages"
+msgstr "Trang affiliates"
+
+#: ../indeed-affiliate-pro.php:139
+msgid "User Account Page"
+msgstr "Trang tài khoản người dùng"
+
+#: ../public/Affiliate_Account_Page.class.php:229
+msgid "Payment Service Settings are not set properly"
+msgstr "Cài đặt thanh toán không chính xác"
+
+#: ../public/Affiliate_Account_Page.class.php:367
+msgid "Please complete all fields!"
+msgstr "vui lòng hoàn tất cả các trường!"
+
+#: ../public/Affiliate_Account_Page.class.php:373
+msgid "Your have change your Password!"
+msgstr "Bạn đã thay đổi mật khẩu."
+
+#: ../public/Affiliate_Account_Page.class.php:375
+msgid "Passwords not match!"
+msgstr "Mật khẩu không giống!"
+
+#: ../public/Affiliate_Account_Page.class.php:378
+msgid "Old Password is not correct!"
+msgstr "Mật khẩu cũ không chính xác!"
+
+#: ../public/Affiliate_Account_Page.class.php:692
+msgid "Individual"
+msgstr "Cá nhân"
+
+#: ../public/Affiliate_Account_Page.class.php:693
+msgid "Corporation"
+msgstr "Tập đoàn"
+
+#: ../public/Uap_Main_Public.class.php:291
+msgid "Log Out"
+msgstr "Thoát"
+
+#: ../public/Uap_Main_Public.class.php:387
+msgid "Loggin Form is not showing up when You're logged."
+msgstr "Form đăng nhập không hiển thị khi bạn đã đăng nhập thành công."
+
+#: ../public/Uap_Main_Public.class.php:390
+msgid "Register Form is not showing up when You're logged."
+msgstr "Form đăng ký không hiển thị  khi bạn đã đăng nhập thành công."
+
+#: ../public/Uap_Main_Public.class.php:393
+msgid "Affiliate Account Page!"
+msgstr "Trang tài khoản Affiliate!"
+
+#: ../public/Uap_Main_Public.class.php:396
+msgid "Affiliate Lost Password Page!"
+msgstr "Trang quên mật khẩu Affiliate!"
+
+#: ../public/services/Uap_UMP.class.php:164
+#: ../public/services/Uap_Woo.class.php:244
+msgid "Please complete all required fields!"
+msgstr "Vui lòng hoàn tất các trường bắt buộc!"
+
+#: ../public/views/account_page-banners.php:22
+msgid "Banner Size:"
+msgstr "Kích thước banner:"
+
+#: ../public/views/account_page-banners.php:23
+msgid "Target URL:"
+msgstr "URL đích:"
+
+#: ../public/views/account_page-banners.php:26
+msgid "Copy & Paste this Source Code Into Your Website: "
+msgstr "Sao chép và dán mã nguồn này vào website của bạn:"
+
+#: ../public/views/account_page-campaign_reports.php:16
+#: ../public/views/account_page-campaign_reports.php:24
+msgid "Unique Visits"
+msgstr "Số lượng truy cập duy nhất"
+
+#: ../public/views/account_page-campaign_reports.php:17
+#: ../public/views/account_page-campaign_reports.php:25
+#: ../public/views/account_page-list_visits.php:10
+#: ../public/views/account_page-reports.php:44
+msgid "Total Visits"
+msgstr "Tổng truy cập"
+
+#: ../public/views/account_page-campaigns.php:12
+msgid "List Of Campaigns"
+msgstr "Danh sách các chiến dịch"
+
+#: ../public/views/account_page-campaigns.php:23
+msgid "Add New Campaign"
+msgstr "Thêm 1 chiến dịch mới"
+
+#: ../public/views/account_page-change_password.php:11
+msgid "Old Password"
+msgstr "Mật khẩu cũ"
+
+#: ../public/views/account_page-change_password.php:15
+msgid "New Password"
+msgstr "Mật khẩu mới"
+
+#: ../public/views/account_page-change_password.php:19
+msgid "Repeat New Password"
+msgstr "Lặp lại mật khẩu mới"
+
+#: ../public/views/account_page-coupons.php:13
+#: ../public/views/account_page-coupons.php:20
+msgid "Code"
+msgstr "Mã code"
+
+#: ../public/views/account_page-custom_affiliate_slug.php:20
+msgid "An error has occurred"
+msgstr "Có lỗi xảy ra"
+
+#: ../public/views/account_page-custom_affiliate_slug.php:22
+msgid "Saved"
+msgstr "Đã lưu"
+
+#: ../public/views/account_page-generate_links.php:12
+msgid "Your Affiliate ID is:"
+msgstr "Tài khoản Affiliate ID của bạn là:"
+
+#: ../public/views/account_page-generate_links.php:14
+msgid "Your Affiliate Name is:"
+msgstr "Tên affiliate của bạn là:"
+
+#: ../public/views/account_page-generate_links.php:18
+msgid "Your referral URL is:"
+msgstr "URL giới thiệu của bạn là:"
+
+#: ../public/views/account_page-generate_links.php:31
+msgid "Your Custom Slug:"
+msgstr "Tùy chỉnh đường dẫn của bạn là:"
+
+#: ../public/views/account_page-generate_links.php:47
+msgid "Link Generator"
+msgstr "Tạo link tự động"
+
+#: ../public/views/account_page-generate_links.php:48
+msgid ""
+"If you'd prefer to append your own affiliate links with an alternate "
+"incoming URL, use the following structure. To build your link, take the "
+"following URL and append it with the Alternate Incoming URL you want to use."
+msgstr ""
+"Nếu bạn muốn nối link affiliate của bạn với một đường dẫn URL thì sử dụng "
+"cấu trúc sau. Để tạo link của bạn, lấy URL sau và nối ngay sau đường dẫn mà "
+"bạn muốn sử dụng hãy thực hiện theo các bước sau.</br>\n"
+"Bước 1: Tạo một chiến dịch cho chương trình Marketing của bạn tại Marketing--"
+"->Chiến dịch (Ví dụ: KM dịp 30/4-1/5). Sau đó lựa chọn chiến dịch đang có "
+"bên dưới.\n"
+"</br>Bước 2: Bật chế độ link thân thiện.\n"
+"</br>Bước 3: Copy link sản phẩm cho vào ô \"Chỉ định URL\"\n"
+"</br>Bước 4:  Click vào nút \"Tạo Link\"\n"
+"</br>Bước 5: Có đường link ở ô màu xanh, Copy link này chia sẻ trên các diễn "
+"đàn, Blog cá nhân, Email, Mạng XH: Facebook, Google plus, Twitter, Zalo... "
+"Khi bất kể ai đặt hàng thì bạn sẽ nhận được hoa hồng. Đặt hàng sau 30 ngày, "
+"365 ngày vẫn nhận được hoa hồng."
+
+#: ../public/views/account_page-generate_links.php:62
+msgid "Friendly Links:"
+msgstr "Links thân thiện:"
+
+#: ../public/views/account_page-generate_links.php:64
+msgid "Off"
+msgstr "Tắt"
+
+#: ../public/views/account_page-generate_links.php:75
+msgid "Referrence Type:"
+msgstr "Kiểu giới thiệu:"
+
+#: ../public/views/account_page-generate_links.php:84
+msgid "Specific URL:"
+msgstr "Chỉ định URL:"
+
+#: ../public/views/account_page-generate_links.php:86
+msgid ""
+"Enter any URL from this website in the form below to generate a referral "
+"link!"
+msgstr ""
+"Nhập vào bất kỳ một đường dẫn nào từ website này vào form bên dưới để tạo "
+"link giới thiệu!"
+
+#: ../public/views/account_page-generate_links.php:92
+msgid "Generate Link"
+msgstr "Tạo link"
+
+#: ../public/views/account_page-header.php:38
+msgid "Until the next Rank..."
+msgstr "Cho tới khi đạt thứ hạng mới..."
+
+#: ../public/views/account_page-header.php:59
+msgid "Profile"
+msgstr "Tài khoản"
+
+#: ../public/views/account_page-header.php:71
+msgid "Statements"
+msgstr "Câu lệnh"
+
+#: ../public/views/account_page-header.php:75
+msgid "OverAll"
+msgstr "Tổng quát"
+
+#: ../public/views/account_page-header.php:81
+msgid "Referral Notifications & Reports"
+msgstr "Thông báo người giới thiệu và báo cáo"
+
+#: ../public/views/account_page-list_visits.php:13
+msgid "Conversions"
+msgstr "Chuyển đổi"
+
+#: ../public/views/account_page-list_visits.php:16
+#: ../public/views/account_page-reports.php:62
+msgid "Success Rate"
+msgstr "Tỉ lệ chuyển đổi"
+
+#: ../public/views/account_page-list_visits.php:24
+#: ../public/views/account_page-list_visits.php:33
+msgid "Reffering URL"
+msgstr "Url giới thiệu"
+
+#: ../public/views/account_page-overview.php:35
+#: ../public/views/account_page-payments.php:13
+msgid "Total Transactions"
+msgstr "Tổng các giao dịch"
+
+#: ../public/views/account_page-overview.php:45
+msgid "Your Earnings by Now (total Transactions)"
+msgstr "Thu nhập hiện tại của bạn (Tổng các giao dịch)"
+
+#: ../public/views/account_page-overview.php:53
+#: ../public/views/account_page-reports.php:33
+msgid "Your current Balance"
+msgstr "Số dư hiện tại của bạn"
+
+#: ../public/views/account_page-overview.php:59
+msgid "Total number of Referrals:"
+msgstr "Tổng số người giới thiệu"
+
+#: ../public/views/account_page-overview.php:60
+msgid "Total number of Payments:"
+msgstr "Tổng số thanh thanh toán"
+
+#: ../public/views/account_page-overview.php:61
+msgid "Total number of Paid Referrals:"
+msgstr "Tổng cộng người giới thiệu đã thanh toán"
+
+#: ../public/views/account_page-overview.php:62
+msgid "Total number of UnPaid Referrals:"
+msgstr "Tổng cộng người giới thiệu chưa thanh toán"
+
+#: ../public/views/account_page-overview.php:63
+msgid "Total value of Paid Payments:"
+msgstr "Tổng giá trị  đã thanh toán"
+
+#: ../public/views/account_page-overview.php:64
+msgid "Total value of Unpaid Payments:"
+msgstr "Tổng giá trị chưa thanh toán"
+
+#: ../public/views/account_page-payment_settings.php:22
+msgid "PayPal E-mail Address"
+msgstr "Tài khoản paypal"
+
+#: ../public/views/account_page-payment_settings.php:27
+msgid "Bank Transfer Details"
+msgstr "Thông tin chuyển khoản ngân hàng"
+
+#: ../public/views/account_page-payment_settings.php:33
+msgid "Name on Card"
+msgstr "Tên trên thẻ"
+
+#: ../public/views/account_page-payment_settings.php:37
+msgid "Card Number"
+msgstr "Số thẻ"
+
+#: ../public/views/account_page-payment_settings.php:45
+msgid "Expiration"
+msgstr "Hết hạn"
+
+#: ../public/views/account_page-payment_settings.php:84
+msgid "Tax ID"
+msgstr "Số thuế"
+
+#: ../public/views/account_page-payments.php:10
+msgid "Total Transactions Amount"
+msgstr "Tổng giá trị giao dịch"
+
+#: ../public/views/account_page-referral_notifications.php:16
+msgid "Referral Notification"
+msgstr "Thông báo người giới thiệu"
+
+#: ../public/views/account_page-referral_notifications.php:42
+msgid "Periodically Reports Interval"
+msgstr "Xác định lịch báo cáo"
+
+#: ../public/views/account_page-referral_notifications.php:45
+msgid "Never send reports"
+msgstr "Không bao giờ gửi báo cáo"
+
+#: ../public/views/account_page-referral_notifications.php:45
+msgid "Daily Reports"
+msgstr "Báo cáo hàng ngày"
+
+#: ../public/views/account_page-referral_notifications.php:45
+msgid "Weekly Reports"
+msgstr "Báo cáo hàng tuần"
+
+#: ../public/views/account_page-referral_notifications.php:45
+msgid "Monthly Reports"
+msgstr "Báo cáo hàng tháng"
+
+#: ../public/views/account_page-referrals.php:14
+msgid "Verified Refferal Amount"
+msgstr "Giá trị người giới thiệu đã xác nhận"
+
+#: ../public/views/account_page-referrals.php:17
+msgid "Unverified Refferal Amount"
+msgstr "Giá trị người giới thiệu chưa xác nhận"
+
+#: ../public/views/account_page-referrals.php:28
+#: ../public/views/account_page-referrals_history.php:17
+msgid "Campaign"
+msgstr "Chiến dịch"
+
+#: ../public/views/account_page-referrals_history.php:22
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: ../public/views/account_page-reports.php:15
+msgid "Total referrals"
+msgstr "Tổng người giới thiệu"
+
+#: ../public/views/account_page-reports.php:24
+msgid "Total Earnings (paid Refferals)"
+msgstr "Tổng thu nhập"
+
+#: ../public/views/account_page-reports.php:74
+msgid "Your Achievements"
+msgstr "Thành tích của bạn"
+
+#: ../public/views/account_page-reports.php:81
+msgid "You moved from "
+msgstr "Bạn đã chuyển từ "
+
+#: ../public/views/become_affiliate_bttn.php:2
+msgid "Become an Affiliate"
+msgstr "Trở thành affiliates (Đại lý)"
+
+#: ../public/views/login_form.php:53 ../public/views/login_form.php:113
+#: ../public/views/login_form.php:166 ../public/views/login_form.php:207
+#: ../public/views/login_form.php:254 ../public/views/login_form.php:317
+#: ../public/views/login_form.php:371
+msgid "Lost your password?"
+msgstr "Quên mật khẩu"
+
+#: ../public/views/login_form.php:66 ../public/views/login_form.php:87
+#: ../public/views/login_form.php:145 ../public/views/login_form.php:221
+#: ../public/views/login_form.php:276 ../public/views/login_form.php:331
+#: ../public/views/login_form.php:384
+msgid "Log In"
+msgstr "Đăng nhập"
+
+#: ../public/views/message_for_admin.php:3
+msgid "Admin Info: "
+msgstr "Thông tin admin"
+
+#: ../public/views/reset_password.php:11 ../public/views/reset_password.php:28
+msgid "Username or E-mail"
+msgstr "Tài khoản hoặc email"
+
+#: ../public/views/reset_password.php:14 ../public/views/reset_password.php:22
+#: ../public/views/reset_password.php:32
+msgid "Get New Password"
+msgstr "Tạo mật khẩu mới"
+
+#: ../public/views/wallet-add_new.php:13
+msgid "Service Type"
+msgstr "Loại dịch vụ"
+
+#: ../public/views/wallet-add_new.php:52
+msgid "Add On Wallet"
+msgstr "Thêm trên ví"
+
+#: ../public/views/wallet-add_new.php:55
+msgid "Total Credit: "
+msgstr "Tổng tín dụng:"
+
+#: ../public/views/wallet-add_new.php:62
+msgid "No service available!"
+msgstr "Không có sẵn dịch vụ"
+
+#: ../public/views/wallet.php:16
+msgid "Wallet available Credit"
+msgstr "Tín dụng có sẵn trong ví"
+
+#: ../public/views/wallet.php:25
+msgid "Available Deposit based on your Earnings"
+msgstr "Số tiền nạp vào có sẵn dựa trên thu nhập của bạn"
+
+#: ../public/views/wallet.php:32
+msgid "Add New Wallet Credit"
+msgstr "Thêm một ví điện tử"
+
+#: ../utilities.php:407 ../utilities.php:409
+msgid "Remove"
+msgstr "Xóa bỏ"
+
+#: ../utilities.php:412 ../utilities.php:415
+msgid "Upload"
+msgstr "Tải lên"
+
+#: ../utilities.php:567
+msgid "Link:"
+msgstr "Đường dẫn:"
+
+#: ../utilities.php:583
+msgid "Custom Link: "
+msgstr "Tùy chỉnh url"
+
+#: ../utilities.php:1005
+msgid "Start:"
+msgstr "Bắt đầu"
+
+#: ../utilities.php:1007
+msgid "Until:"
+msgstr "Tới khi"
+
+#: ../utilities.php:1328
+msgid "Multi Level Marketing"
+msgstr "MLM"
+
+#: ../utilities.php:1331
+msgid "Bonus Rank"
+msgstr "Thưởng thứ hạng"
+
+#: ../utilities.php:1334
+msgid "SignUp"
+msgstr "Đăng ký"
+
+#: ../utilities.php:1353
+msgid "Bonus when a new Rank is achieved"
+msgstr "Thưởng khi bạn đạt một thứ hạng mới"
+
+#: ../utilities.php:1753
+msgid "Vietnam"
+msgstr "Việt Nam"
